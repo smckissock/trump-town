@@ -1,0 +1,1059 @@
+{
+  "nodes": [
+    {
+      "Name": "American Petroleum Institute",
+      "Category": "Client",
+      "Id": "0",
+      "Count": 1
+    },
+    {
+      "Name": "American Petroleum Institute",
+      "Category": "Firm",
+      "Id": "1",
+      "Count": 1
+    },
+    {
+      "Name": "Erik Baptist",
+      "Category": "Staffer",
+      "Id": "2",
+      "Count": 1
+    },
+    {
+      "Name": "Saint Gobain Containers, Inc.",
+      "Category": "Client",
+      "Id": "3",
+      "Count": 1
+    },
+    {
+      "Name": "BARNES & THORNBURG LLP",
+      "Category": "Firm",
+      "Id": "4",
+      "Count": 1
+    },
+    {
+      "Name": "Susan Bodine",
+      "Category": "Staffer",
+      "Id": "5",
+      "Count": 2
+    },
+    {
+      "Name": "American Forest & Paper Association",
+      "Category": "Client",
+      "Id": "6",
+      "Count": 1
+    },
+    {
+      "Name": "Barnes & Thornbuerg LLP",
+      "Category": "Firm",
+      "Id": "7",
+      "Count": 1
+    },
+    {
+      "Name": "DIRECTED ENERGY SOLUTIONS",
+      "Category": "Client",
+      "Id": "8",
+      "Count": 1
+    },
+    {
+      "Name": "PATRICK DAVIS CONSULTING, LLC",
+      "Category": "Firm",
+      "Id": "9",
+      "Count": 1
+    },
+    {
+      "Name": "Patrick J. Davis",
+      "Category": "Staffer",
+      "Id": "10",
+      "Count": 1
+    },
+    {
+      "Name": "AMERICAN EB5, LLC",
+      "Category": "Client",
+      "Id": "11",
+      "Count": 1
+    },
+    {
+      "Name": "AKERMAN SENTERFITT",
+      "Category": "Firm",
+      "Id": "12",
+      "Count": 3
+    },
+    {
+      "Name": "Nicholas Falvo",
+      "Category": "Staffer",
+      "Id": "13",
+      "Count": 8
+    },
+    {
+      "Name": "CapSpan",
+      "Category": "Client",
+      "Id": "14",
+      "Count": 1
+    },
+    {
+      "Name": "CHABOT SPACE & SCIENCE CENTER",
+      "Category": "Client",
+      "Id": "15",
+      "Count": 1
+    },
+    {
+      "Name": "Akerman LLP",
+      "Category": "Firm",
+      "Id": "16",
+      "Count": 5
+    },
+    {
+      "Name": "CONSORTIUM OF REGIONAL CLIMATE CENTERS",
+      "Category": "Client",
+      "Id": "17",
+      "Count": 1
+    },
+    {
+      "Name": "NYE COUNTY, NEVADA",
+      "Category": "Client",
+      "Id": "18",
+      "Count": 1
+    },
+    {
+      "Name": "Miami Dade County",
+      "Category": "Client",
+      "Id": "19",
+      "Count": 1
+    },
+    {
+      "Name": "PERALTA COMMUNITY COLLEGE DISTRICT",
+      "Category": "Client",
+      "Id": "20",
+      "Count": 1
+    },
+    {
+      "Name": "Village of Bald Head Island",
+      "Category": "Client",
+      "Id": "21",
+      "Count": 1
+    },
+    {
+      "Name": "National Association of Chemical Distributors",
+      "Category": "Client",
+      "Id": "22",
+      "Count": 1
+    },
+    {
+      "Name": "National Association of Chemical Distributors",
+      "Category": "Firm",
+      "Id": "23",
+      "Count": 1
+    },
+    {
+      "Name": "Amanda Gunasekara",
+      "Category": "Staffer",
+      "Id": "24",
+      "Count": 1
+    },
+    {
+      "Name": "BP AMERICA, INC",
+      "Category": "Client",
+      "Id": "25",
+      "Count": 1
+    },
+    {
+      "Name": "BP AMERICA, INC",
+      "Category": "Firm",
+      "Id": "26",
+      "Count": 1
+    },
+    {
+      "Name": "Troy Lyons",
+      "Category": "Staffer",
+      "Id": "27",
+      "Count": 2
+    },
+    {
+      "Name": "HESS CORPORATION",
+      "Category": "Client",
+      "Id": "28",
+      "Count": 1
+    },
+    {
+      "Name": "HESS CORPORATION",
+      "Category": "Firm",
+      "Id": "29",
+      "Count": 1
+    },
+    {
+      "Name": "CITY OF TWENTYNINE PALMS",
+      "Category": "Client",
+      "Id": "30",
+      "Count": 1
+    },
+    {
+      "Name": "INNOVATIVE FEDERAL STRATEGIES, LLC",
+      "Category": "Firm",
+      "Id": "31",
+      "Count": 12
+    },
+    {
+      "Name": "Christian Rodrick",
+      "Category": "Staffer",
+      "Id": "32",
+      "Count": 12
+    },
+    {
+      "Name": "City of Banning, CA",
+      "Category": "Client",
+      "Id": "33",
+      "Count": 1
+    },
+    {
+      "Name": "CITY OF HIGHLAND, CA",
+      "Category": "Client",
+      "Id": "34",
+      "Count": 1
+    },
+    {
+      "Name": "CITY OF MURRIETA, CA",
+      "Category": "Client",
+      "Id": "35",
+      "Count": 1
+    },
+    {
+      "Name": "CITY OF REDLANDS, CA",
+      "Category": "Client",
+      "Id": "36",
+      "Count": 1
+    },
+    {
+      "Name": "City of San Bernardino, CA",
+      "Category": "Client",
+      "Id": "37",
+      "Count": 1
+    },
+    {
+      "Name": "Hi-Desert Water District",
+      "Category": "Client",
+      "Id": "38",
+      "Count": 1
+    },
+    {
+      "Name": "Inland Empire Utilities Agency",
+      "Category": "Client",
+      "Id": "39",
+      "Count": 1
+    },
+    {
+      "Name": "Inland Valley Development Agency",
+      "Category": "Client",
+      "Id": "40",
+      "Count": 1
+    },
+    {
+      "Name": "Mojave Water Agency",
+      "Category": "Client",
+      "Id": "41",
+      "Count": 1
+    },
+    {
+      "Name": "San Bernardino Valley Municipal Water District",
+      "Category": "Client",
+      "Id": "42",
+      "Count": 1
+    },
+    {
+      "Name": "Valley Sanitary District",
+      "Category": "Client",
+      "Id": "43",
+      "Count": 1
+    },
+    {
+      "Name": "Syngenta Corporation",
+      "Category": "Client",
+      "Id": "44",
+      "Count": 1
+    },
+    {
+      "Name": "Syngenta Corporation",
+      "Category": "Firm",
+      "Id": "45",
+      "Count": 1
+    },
+    {
+      "Name": "Jeffrey Sands",
+      "Category": "Staffer",
+      "Id": "46",
+      "Count": 1
+    },
+    {
+      "Name": "THE SOUTHERN COMPANY",
+      "Category": "Client",
+      "Id": "47",
+      "Count": 1
+    },
+    {
+      "Name": "TROUTMAN SANDERS LLP",
+      "Category": "Firm",
+      "Id": "48",
+      "Count": 1
+    },
+    {
+      "Name": "George Y. Sugiyama",
+      "Category": "Staffer",
+      "Id": "49",
+      "Count": 2
+    },
+    {
+      "Name": "National Mining Association",
+      "Category": "Client",
+      "Id": "50",
+      "Count": 1
+    },
+    {
+      "Name": "Troutman Sanders, LLP",
+      "Category": "Firm",
+      "Id": "51",
+      "Count": 1
+    },
+    {
+      "Name": "Energy Fuels Resources Inc.",
+      "Category": "Client",
+      "Id": "52",
+      "Count": 1
+    },
+    {
+      "Name": "Faegre Baker Daniels Consulting",
+      "Category": "Firm",
+      "Id": "53",
+      "Count": 4
+    },
+    {
+      "Name": "Andrew Wheeler",
+      "Category": "Staffer",
+      "Id": "54",
+      "Count": 17
+    },
+    {
+      "Name": "Sargento Foods Inc.",
+      "Category": "Client",
+      "Id": "55",
+      "Count": 1
+    },
+    {
+      "Name": "Coalition for Domestic Medical Isotope Supply",
+      "Category": "Client",
+      "Id": "56",
+      "Count": 1
+    },
+    {
+      "Name": "FaegreBD Consulting",
+      "Category": "Firm",
+      "Id": "57",
+      "Count": 10
+    },
+    {
+      "Name": "Insurance Auto Auctions, Inc.",
+      "Category": "Client",
+      "Id": "58",
+      "Count": 1
+    },
+    {
+      "Name": "Bear Head LNG Corporation",
+      "Category": "Client",
+      "Id": "59",
+      "Count": 1
+    },
+    {
+      "Name": "UNDERWRITERS LABORATORIES",
+      "Category": "Client",
+      "Id": "60",
+      "Count": 1
+    },
+    {
+      "Name": "Xcel Energy",
+      "Category": "Client",
+      "Id": "61",
+      "Count": 1
+    },
+    {
+      "Name": "Enterprises Swanco LLC",
+      "Category": "Client",
+      "Id": "62",
+      "Count": 1
+    },
+    {
+      "Name": "Domestic Fuel Solutions Group",
+      "Category": "Client",
+      "Id": "63",
+      "Count": 1
+    },
+    {
+      "Name": "NUCLEAR ENERGY INSTITUTE",
+      "Category": "Client",
+      "Id": "64",
+      "Count": 1
+    },
+    {
+      "Name": "ICOR International",
+      "Category": "Client",
+      "Id": "65",
+      "Count": 1
+    },
+    {
+      "Name": "FaegreBD Consulting (formerly B&D Consulting)",
+      "Category": "Firm",
+      "Id": "66",
+      "Count": 2
+    },
+    {
+      "Name": "South Coast Air Quality Management District (SCAQMD)",
+      "Category": "Client",
+      "Id": "67",
+      "Count": 1
+    },
+    {
+      "Name": "Celanese Corporation",
+      "Category": "Client",
+      "Id": "68",
+      "Count": 1
+    },
+    {
+      "Name": "Murray Energy",
+      "Category": "Client",
+      "Id": "69",
+      "Count": 1
+    },
+    {
+      "Name": "Darling International Inc.",
+      "Category": "Client",
+      "Id": "70",
+      "Count": 1
+    },
+    {
+      "Name": "Whirlpool Corporation",
+      "Category": "Client",
+      "Id": "71",
+      "Count": 1
+    },
+    {
+      "Name": "Faegre, Baker & Daniels",
+      "Category": "Firm",
+      "Id": "72",
+      "Count": 1
+    },
+    {
+      "Name": "KAR Holdings",
+      "Category": "Client",
+      "Id": "73",
+      "Count": 1
+    },
+    {
+      "Name": "Liberty Mutual Insurance",
+      "Category": "Client",
+      "Id": "74",
+      "Count": 1
+    },
+    {
+      "Name": "WILMER CUTLER PICKERING HALE AND DORR LLP",
+      "Category": "Firm",
+      "Id": "75",
+      "Count": 12
+    },
+    {
+      "Name": "David Ross",
+      "Category": "Staffer",
+      "Id": "76",
+      "Count": 16
+    },
+    {
+      "Name": "American Society of Mechanical Engineers",
+      "Category": "Client",
+      "Id": "77",
+      "Count": 1
+    },
+    {
+      "Name": "Apple, Inc.",
+      "Category": "Client",
+      "Id": "78",
+      "Count": 1
+    },
+    {
+      "Name": "Caspian Group Holdings",
+      "Category": "Client",
+      "Id": "79",
+      "Count": 1
+    },
+    {
+      "Name": "Business Roundtable",
+      "Category": "Client",
+      "Id": "80",
+      "Count": 2
+    },
+    {
+      "Name": "Wilmer Cutler Pickering Hale and Dorr LLP",
+      "Category": "Firm",
+      "Id": "81",
+      "Count": 1
+    },
+    {
+      "Name": "Advanced Infusion Solutions",
+      "Category": "Client",
+      "Id": "82",
+      "Count": 1
+    },
+    {
+      "Name": "Google, Inc.",
+      "Category": "Client",
+      "Id": "83",
+      "Count": 1
+    },
+    {
+      "Name": "Navajo Enterprises LLC",
+      "Category": "Client",
+      "Id": "84",
+      "Count": 1
+    },
+    {
+      "Name": "CROWELL & MORING LLP",
+      "Category": "Firm",
+      "Id": "85",
+      "Count": 2
+    },
+    {
+      "Name": "Beer Institute",
+      "Category": "Client",
+      "Id": "86",
+      "Count": 1
+    },
+    {
+      "Name": "Sierra Pacific Industries",
+      "Category": "Client",
+      "Id": "87",
+      "Count": 1
+    },
+    {
+      "Name": "Friedkin Group, Inc.",
+      "Category": "Client",
+      "Id": "88",
+      "Count": 1
+    },
+    {
+      "Name": "Owens Corning Corporation",
+      "Category": "Client",
+      "Id": "89",
+      "Count": 1
+    },
+    {
+      "Name": "Brambles Limited",
+      "Category": "Client",
+      "Id": "90",
+      "Count": 1
+    },
+    {
+      "Name": "Coalition of Airline Pilots Associations",
+      "Category": "Client",
+      "Id": "91",
+      "Count": 1
+    },
+    {
+      "Name": "Coalition of Airline Pilots Associations",
+      "Category": "Firm",
+      "Id": "92",
+      "Count": 1
+    },
+    {
+      "Name": "Peabody Energy",
+      "Category": "Client",
+      "Id": "93",
+      "Count": 1
+    },
+    {
+      "Name": "Lake Michigan Car Ferry",
+      "Category": "Client",
+      "Id": "94",
+      "Count": 1
+    },
+    {
+      "Name": "HUNTON & WILLIAMS LLP",
+      "Category": "Firm",
+      "Id": "95",
+      "Count": 2
+    },
+    {
+      "Name": "William L. Wehrum",
+      "Category": "Staffer",
+      "Id": "96",
+      "Count": 2
+    },
+    {
+      "Name": "NATIONAL STONE, SAND AND GRAVEL ASSOCIATION (NSSGA)",
+      "Category": "Client",
+      "Id": "97",
+      "Count": 1
+    },
+    {
+      "Name": "Colorado Interstate Gas",
+      "Category": "Client",
+      "Id": "98",
+      "Count": 1
+    },
+    {
+      "Name": "Greenberg Traurig, LLP",
+      "Category": "Firm",
+      "Id": "99",
+      "Count": 1
+    },
+    {
+      "Name": "Douglas Benevento",
+      "Category": "Staffer",
+      "Id": "100",
+      "Count": 1
+    }
+  ],
+
+    "links": [
+      {
+        "source": "0",
+        "target": "1",
+        "count": "1"
+      },
+      {
+        "source": "1",
+        "target": "2",
+        "count": "1"
+      },
+      {
+        "source": "3",
+        "target": "4",
+        "count": "1"
+      },
+      {
+        "source": "4",
+        "target": "5",
+        "count": "1"
+      },
+      {
+        "source": "6",
+        "target": "7",
+        "count": "1"
+      },
+      {
+        "source": "7",
+        "target": "5",
+        "count": "1"
+      },
+      {
+        "source": "8",
+        "target": "9",
+        "count": "1"
+      },
+      {
+        "source": "9",
+        "target": "10",
+        "count": "1"
+      },
+      {
+        "source": "11",
+        "target": "12",
+        "count": "1"
+      },
+      {
+        "source": "12",
+        "target": "13",
+        "count": "3"
+      },
+      {
+        "source": "14",
+        "target": "12",
+        "count": "1"
+      },
+      {
+        "source": "15",
+        "target": "16",
+        "count": "1"
+      },
+      {
+        "source": "16",
+        "target": "13",
+        "count": "5"
+      },
+      {
+        "source": "17",
+        "target": "16",
+        "count": "1"
+      },
+      {
+        "source": "18",
+        "target": "16",
+        "count": "1"
+      },
+      {
+        "source": "19",
+        "target": "16",
+        "count": "1"
+      },
+      {
+        "source": "20",
+        "target": "16",
+        "count": "1"
+      },
+      {
+        "source": "21",
+        "target": "12",
+        "count": "1"
+      },
+      {
+        "source": "22",
+        "target": "23",
+        "count": "1"
+      },
+      {
+        "source": "23",
+        "target": "24",
+        "count": "1"
+      },
+      {
+        "source": "25",
+        "target": "26",
+        "count": "1"
+      },
+      {
+        "source": "26",
+        "target": "27",
+        "count": "1"
+      },
+      {
+        "source": "28",
+        "target": "29",
+        "count": "1"
+      },
+      {
+        "source": "29",
+        "target": "27",
+        "count": "1"
+      },
+      {
+        "source": "30",
+        "target": "31",
+        "count": "1"
+      },
+      {
+        "source": "31",
+        "target": "32",
+        "count": "12"
+      },
+      {
+        "source": "33",
+        "target": "31",
+        "count": "1"
+      },
+      {
+        "source": "34",
+        "target": "31",
+        "count": "1"
+      },
+      {
+        "source": "35",
+        "target": "31",
+        "count": "1"
+      },
+      {
+        "source": "36",
+        "target": "31",
+        "count": "1"
+      },
+      {
+        "source": "37",
+        "target": "31",
+        "count": "1"
+      },
+      {
+        "source": "38",
+        "target": "31",
+        "count": "1"
+      },
+      {
+        "source": "39",
+        "target": "31",
+        "count": "1"
+      },
+      {
+        "source": "40",
+        "target": "31",
+        "count": "1"
+      },
+      {
+        "source": "41",
+        "target": "31",
+        "count": "1"
+      },
+      {
+        "source": "42",
+        "target": "31",
+        "count": "1"
+      },
+      {
+        "source": "43",
+        "target": "31",
+        "count": "1"
+      },
+      {
+        "source": "44",
+        "target": "45",
+        "count": "1"
+      },
+      {
+        "source": "45",
+        "target": "46",
+        "count": "1"
+      },
+      {
+        "source": "47",
+        "target": "48",
+        "count": "1"
+      },
+      {
+        "source": "48",
+        "target": "49",
+        "count": "1"
+      },
+      {
+        "source": "50",
+        "target": "51",
+        "count": "1"
+      },
+      {
+        "source": "51",
+        "target": "49",
+        "count": "1"
+      },
+      {
+        "source": "52",
+        "target": "53",
+        "count": "1"
+      },
+      {
+        "source": "53",
+        "target": "54",
+        "count": "4"
+      },
+      {
+        "source": "55",
+        "target": "53",
+        "count": "1"
+      },
+      {
+        "source": "56",
+        "target": "57",
+        "count": "1"
+      },
+      {
+        "source": "57",
+        "target": "54",
+        "count": "10"
+      },
+      {
+        "source": "58",
+        "target": "57",
+        "count": "1"
+      },
+      {
+        "source": "59",
+        "target": "57",
+        "count": "1"
+      },
+      {
+        "source": "60",
+        "target": "53",
+        "count": "1"
+      },
+      {
+        "source": "61",
+        "target": "57",
+        "count": "1"
+      },
+      {
+        "source": "62",
+        "target": "57",
+        "count": "1"
+      },
+      {
+        "source": "63",
+        "target": "57",
+        "count": "1"
+      },
+      {
+        "source": "64",
+        "target": "57",
+        "count": "1"
+      },
+      {
+        "source": "65",
+        "target": "66",
+        "count": "1"
+      },
+      {
+        "source": "66",
+        "target": "54",
+        "count": "2"
+      },
+      {
+        "source": "67",
+        "target": "57",
+        "count": "1"
+      },
+      {
+        "source": "68",
+        "target": "57",
+        "count": "1"
+      },
+      {
+        "source": "69",
+        "target": "53",
+        "count": "1"
+      },
+      {
+        "source": "70",
+        "target": "57",
+        "count": "1"
+      },
+      {
+        "source": "71",
+        "target": "72",
+        "count": "1"
+      },
+      {
+        "source": "72",
+        "target": "54",
+        "count": "1"
+      },
+      {
+        "source": "73",
+        "target": "66",
+        "count": "1"
+      },
+      {
+        "source": "74",
+        "target": "75",
+        "count": "1"
+      },
+      {
+        "source": "75",
+        "target": "76",
+        "count": "12"
+      },
+      {
+        "source": "77",
+        "target": "75",
+        "count": "1"
+      },
+      {
+        "source": "78",
+        "target": "75",
+        "count": "1"
+      },
+      {
+        "source": "79",
+        "target": "75",
+        "count": "1"
+      },
+      {
+        "source": "80",
+        "target": "81",
+        "count": "1"
+      },
+      {
+        "source": "81",
+        "target": "76",
+        "count": "1"
+      },
+      {
+        "source": "82",
+        "target": "75",
+        "count": "1"
+      },
+      {
+        "source": "80",
+        "target": "75",
+        "count": "1"
+      },
+      {
+        "source": "83",
+        "target": "75",
+        "count": "1"
+      },
+      {
+        "source": "84",
+        "target": "85",
+        "count": "1"
+      },
+      {
+        "source": "85",
+        "target": "76",
+        "count": "2"
+      },
+      {
+        "source": "86",
+        "target": "75",
+        "count": "1"
+      },
+      {
+        "source": "87",
+        "target": "75",
+        "count": "1"
+      },
+      {
+        "source": "88",
+        "target": "75",
+        "count": "1"
+      },
+      {
+        "source": "89",
+        "target": "75",
+        "count": "1"
+      },
+      {
+        "source": "90",
+        "target": "75",
+        "count": "1"
+      },
+      {
+        "source": "91",
+        "target": "92",
+        "count": "1"
+      },
+      {
+        "source": "92",
+        "target": "76",
+        "count": "1"
+      },
+      {
+        "source": "93",
+        "target": "85",
+        "count": "1"
+      },
+      {
+        "source": "94",
+        "target": "95",
+        "count": "1"
+      },
+      {
+        "source": "95",
+        "target": "96",
+        "count": "2"
+      },
+      {
+        "source": "97",
+        "target": "95",
+        "count": "1"
+      },
+      {
+        "source": "98",
+        "target": "99",
+        "count": "1"
+      },
+      {
+        "source": "99",
+        "target": "100",
+        "count": "1"
+      }
+    ]
+  
+  }

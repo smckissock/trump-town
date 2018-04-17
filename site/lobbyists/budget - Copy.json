@@ -1,0 +1,58 @@
+﻿{
+    "nodes": [
+        
+        { "name": "County Transfer", "category": "fundingSources", "amount": "1835.2" },
+
+        { "name": "Total Budget", "category": "totalBudget", "amount": "2600" },
+
+        { "name": "Operations", "category": "instructionAndOperations", "amount": "374" },
+        { "name": "Instruction", "category": "instructionAndOperations", "amount": "2178" },
+
+        { "name": "Elementary", "category": "Uses", "amount": "829" },
+
+        { "name": "Transportation", "category": "Uses", "amount": "155.2" },
+        { "name": "Facilities Management", "category": "Uses", "amount": "107" },
+        { "name": "General Support", "category": "Uses", "amount": "111.5" },
+
+        { "name": "Instructional Support", "category": "Uses", "amount": "125.9" },
+        { "name": "Special Education", "category": "uses", "amount": "464.3" },
+        { "name": "Adult and Community Ed", "category": "Uses", "amount": ".5" },
+        { "name": "High", "category": "Uses", "amount": "523" },
+        { "name": "Middle", "category": "Uses", "amount": "235.2" },
+
+        { "name": "State Aid", "category": "fundingSources", "amount": "405.8" },
+        { "name": "Sales Tax", "category": "fundingSources", "amount": "182.3" },
+        { "name": "Federal Aid", "category": "fundingSources", "amount": "42.2" },
+        { "name": "Beginning Balance", "category": "fundingSources", "amount": "27.8" },
+        { "name": "City of Fairfax", "category": "fundingSources", "amount": "42.9" },
+        { "name": "Other", "category": "fundingSources", "amount": "20" },
+        { "name": "Reserves", "category": "fundingSources", "amount": "18.2" }
+    ],
+    "links": [
+        { "source": 0, "target": 1, "value": 1835.2 },
+        
+        { "source": 1, "target": 3, "value": 2178 },
+        { "source": 1, "target": 2, "value": 374 },
+        
+        { "source": 3, "target": 4, "value": 829 },
+
+        { "source": 2, "target": 5, "value": 155.2 },
+        { "source": 2, "target": 6, "value": 107 },
+        { "source": 2, "target": 7, "value": 111.5 },
+        
+        { "source": 3, "target": 8, "value": 125.9 },
+        { "source": 3, "target": 9, "value": 464.3 },
+        { "source": 3, "target": 10, "value": 0.5 },
+        { "source": 3, "target": 11, "value": 523 },
+        { "source": 3, "target": 12, "value": 235.2 },
+
+        { "source": 13, "target": 1, "value": 405.8 },
+        { "source": 14, "target": 1, "value": 182.3},
+        { "source": 15, "target": 1, "value": 42.2},
+        { "source": 16, "target": 1, "value": 27.8},
+        { "source": 17, "target": 1, "value": 42.9},
+        { "source": 18, "target": 1, "value": 20},
+        { "source": 19, "target": 1, "value": 18.2}
+    ]
+}
+
