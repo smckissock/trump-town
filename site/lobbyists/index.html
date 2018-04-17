@@ -17,6 +17,7 @@
     <script src="/lib/sankey.js"></script>
     <script src="http://d3js.org/queue.v1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.js"></script>
+    <!--<script src="js/lobbyists.js" type='text/javascript'></script>-->
 
     <style type="text/css">
         html {
@@ -34,7 +35,7 @@
         header,
         footer {
             font-weight: bolder;
-            font-size: 22px;
+            font-size: 20px;
             color: #000;
             font-family: "PT Sans", sans-serif;
         }
@@ -44,7 +45,7 @@
         }
 
         svg {
-            font: 500 14px "arial", sans-serif;
+            font: 500 12px "arial", sans-serif;
             fill: #023858;
         }
 
@@ -54,6 +55,7 @@
 
         .columnHead {
             font-family: Helvetica, Arial, sans-serif;
+            font-size: 13px;
         }
 
 
@@ -74,10 +76,10 @@
             stroke-opacity: .2;
         }
 
-        .link:hover {
-            stroke-opacity: .5;
-        }
-       
+            .link:hover {
+                stroke-opacity: .5;
+            }
+
         .totalBudget {
             font-weight: bolder;
             fill: #bd9e39;
@@ -104,7 +106,6 @@
             position: absolute;
             width: 200px;
         }
-
     </style>
 </head>
 <body>
@@ -123,66 +124,57 @@
     <p id="chart">
         
         <script>
-            const pct = d3.format(",.1%");
 
-            const margin = {
-                top: 20, right: 30, bottom: 6, left: 1
-            };
+            //d3.json("budget.json", function (data) {
+            d3.json("lobbyists.json", function (data) {
+                drawSankey(data);
+            });
 
-            const totalWidth = 700; // 700
-            const totalHeight = 600;  // 600
+            function drawSankey(data) {
+                const pct = d3.format(",.1%");
 
-            const width = totalWidth - margin.left - margin.right;
-            const height = totalHeight - margin.top - margin.bottom;
+                const margin = {
+                    top: 20, right: 30, bottom: 6, left: 1
+                };
 
-            var colors = ['#1f77b4', '#bd9e39', '#ad494a', '#637939'];
-            
-            const formatNumber = d3.format(",.0f");
-            const format = d => formatNumber(d);
+                const totalWidth = 700; // 700
+                const totalHeight = 500;  // 600
 
-            color = d3.scale.ordinal()
-                .domain(['Client', 'Lobbying Firm', 'Lobbyist'])
-                .range(colors);
+                const width = totalWidth - margin.left - margin.right;
+                const height = totalHeight - margin.top - margin.bottom;
 
-            const svg = d3.select("#chart")
-                .append("svg")
-                .attr("width", width + margin.left + margin.right)
-                .attr("height", height + margin.top + margin.bottom)
-                .append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+                var colors = ['#1f77b4', '#bd9e39', '#ad494a', '#637939'];
 
-            const sankey = d3.sankey()
-                .nodeWidth(20)
-                .nodePadding(25)
-                .size([width - 150, height]);
+                const formatNumber = d3.format(",.0f");
+                const format = d => formatNumber(d);
 
-            const path = sankey.link();
+                color = d3.scale.ordinal()
+                    .domain(['Client', 'Lobbying Firm', 'Lobbyist'])
+                    .range(colors);
 
-            //d3.json("budget.json", function (budget) {
-            d3.json("lobbyists.json", function (budget) {
+                const svg = d3.select("#chart")
+                    .append("svg")
+                    .attr("width", width + margin.left + margin.right)
+                    .attr("height", height + margin.top + margin.bottom)
+                    .append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-                //const width = totalWidth - margin.left - margin.right;
-                //const height = totalHeight - margin.top - margin.bottom;
+                const sankey = d3.sankey()
+                    .nodeWidth(20)
+                    .nodePadding(25)
+                    .size([width - 150, height]);
 
-                //color = d3.scale.ordinal()
-                //    .domain(['Client', 'Lobbying Firm', 'Lobbyist'])
-                //    .range(colors);
+                const path = sankey.link();   
 
-                //const svg = d3.select("#chart")
-                //    .append("svg")
-                //    .attr("width", width + margin.left + margin.right)
-                //    .attr("height", height + margin.top + margin.bottom)
-                //    .append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-                                
                 sankey
-                    .nodes(budget.nodes)
-                    .links(budget.links)
+                    .nodes(data.nodes)
+                    .links(data.links)
                     .layout(50);
-                
+
                 //sankey.extent([[0, 0], [600, 600]]);
 
                 var link = svg.append("g").selectAll(".link")
-                    .data(budget.links)
-                  .enter().append("path")
+                    .data(data.links)
+                    .enter().append("path")
                     .attr("class", "link")
                     .attr("d", path)
                     .style("stroke-width", function (d) { return Math.max(1, d.dy); })
@@ -192,20 +184,20 @@
                     .text(function (d) { return d.source.name + " → " + d.target.name; });
 
                 var node = svg.append("g").selectAll(".node")
-                    .data(budget.nodes)
-                  .enter().append("g")
+                    .data(data.nodes)
+                    .enter().append("g")
                     .attr("class", "node")
                     .attr("transform", function (d) { return "translate(" + d.x + "," + d.y + ")"; })
-                  .call(d3.behavior.drag()
-                    .origin(function (d) { return d; })
-                    .on("dragstart", function () { this.parentNode.appendChild(this); })
-                    .on("drag", dragmove));
+                    .call(d3.behavior.drag()
+                        .origin(function (d) { return d; })
+                        .on("dragstart", function () { this.parentNode.appendChild(this); })
+                        .on("drag", dragmove));
 
                 node.append("rect")
                     .attr("height", function (d) { return d.dy; })
                     .attr("width", sankey.nodeWidth())
                     .style("fill", function (d) { return color(d.category); })
-                  .append("title")
+                    .append("title")
                     .text(function (d) { return d.name; });
 
                 node.append("text")
@@ -227,16 +219,16 @@
                         if (d.amount)
                             return d.amount + "  (" + pct(+d.amount / 2600) + ")";
                     });
-                
+
                 function dragmove(d) {
                     d3.select(this)
                         .attr("transform", "translate(" + (
-                               d.x = Math.max(0, Math.min(width - d.dx, d3.event.x))
-                            ) + "," + (d.y = Math.max(0, Math.min(height - d.dy, d3.event.y))) + ")");
+                            d.x = Math.max(0, Math.min(width - d.dx, d3.event.x))
+                        ) + "," + (d.y = Math.max(0, Math.min(height - d.dy, d3.event.y))) + ")");
                     sankey.relayout();
                     link.attr("d", path);
                 }
-            });
+            }
 
         </script>
 </body>

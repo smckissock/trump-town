@@ -11,6 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lobbyists", "lobbyists", "{
 	ProjectSection(SolutionItems) = preProject
 		..\site\lobbyists\budget.json = ..\site\lobbyists\budget.json
 		..\site\lobbyists\index.html = ..\site\lobbyists\index.html
+		..\site\lobbyists\js\lobbyists.js = ..\site\lobbyists\js\lobbyists.js
 		..\site\lobbyists\lobbyists.json = ..\site\lobbyists\lobbyists.json
 	EndProjectSection
 EndProject

@@ -110,7 +110,7 @@ namespace Importer {
         }
 
         public static void MakeNodesAndLinks() {
-            var reader = Util.Query("SELECT * FROM LobbyistView WHERE AgencyID = 15");  // 46
+            var reader = Util.Query("SELECT * FROM LobbyistView WHERE AgencyID = 63");  // 46
             while (reader.Read()) {
                 var client = AddNode(reader["Client"].ToString(), "Client");
                 var firm = AddNode(reader["Firm"].ToString(), "Firm");
@@ -139,26 +139,7 @@ namespace Importer {
             
             System.IO.File.WriteAllText(path + "lobbyists.json", niceJson);
         }
-
-        //private static void MakeJson(string path) {
-        //    string nodesJson = JsonConvert.SerializeObject(nodes.Values);
-        //    var niceNodes = Newtonsoft.Json.Linq.JToken.Parse(nodesJson).ToString();
-
-        //    List<LinkJson> linkJsons = new List<LinkJson>();
-        //    foreach (Link link in links.Values) {
-        //        linkJsons.Add(link.LinkJson());
-        //    }
-        //    string linksJson = JsonConvert.SerializeObject(linkJsons);
-        //    var niceLinks = Newtonsoft.Json.Linq.JToken.Parse(linksJson).ToString();
-
-        //    string allJson =
-        //        " {\"nodes\": " + niceNodes +
-
-        //        " {\"links\": " + niceLinks +
-
-        //      "}";
-        //    System.IO.File.WriteAllText(path + "nodes.json", allJson);
-        //}
+        
 
         private static Node AddNode(string name, string category) {
             if (nodes.ContainsKey(name + category)) {
