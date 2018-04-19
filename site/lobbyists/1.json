@@ -1,0 +1,173 @@
+{
+  "nodeCount": 15,
+  "agency": "National Endowment for the Humanities",
+  "nodes": [
+    {
+      "name": "COLORADO RIVER ENERGY DISTRIBUTORS ASSOCIATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "MORGAN MEGUIRE, LLC",
+      "category": "Firm",
+      "amount": 15
+    },
+    {
+      "name": "Timothy Hoyt Robison",
+      "category": "Staffer",
+      "amount": 15
+    },
+    {
+      "name": "CITY UTILITIES OF SPRINGFIELD",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ENERGY NORTHWEST",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "MADISON GAS AND ELECTRIC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "NORTHEAST PUBLIC POWER ASSOCIATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "NORTHWEST PUBLIC POWER ASSOCIATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "SOUTHERN CALIFORNIA PUBLIC POWER AUTHORITY",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Tennessee Valley Public Power Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "WASHINGTON PUBLIC UTILITY DISTRICTS ASSOCIATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "SACRAMENTO MUNICIPAL UTILITY DISTRICT",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ELECTRICAL DISTRICT NO. 8",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "TURLOCK IRRIGATION DISTRICT",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Utah Associated Municipal Power Systems",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Transmission Agency of Northern California",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "TRANSMISSION ACCESS POLICY STUDY GROUP",
+      "category": "Client",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 15
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "value": 1
+    }
+  ]
+}

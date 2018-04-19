@@ -1,0 +1,1013 @@
+{
+  "nodeCount": 73,
+  "agency": "Transportation",
+  "nodes": [
+    {
+      "name": "General Mills",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "General Mills",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Erika L. Baum",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Koniag Government Services",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "RedFive Strategies",
+      "category": "Firm",
+      "amount": 7
+    },
+    {
+      "name": "Anthony Bedell",
+      "category": "Staffer",
+      "amount": 9
+    },
+    {
+      "name": "Transurban (USA) Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Latino Coalition",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Hispanic Business Roundtable Institute",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "America's Small Business Development Centers",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "National Association of Federal Credit Unions",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Computer & Communications Industry Association (CCIA)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Intuit, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Intuit, Inc.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "ASSN. OF SMALL BUSINESS DEV. CENTERS",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ASSN. OF SMALL BUSINESS DEV. CENTERS",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "STRATEGIC MARKETING GROUP, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "STRATEGIC MARKETING GROUP, LLC",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Heath Hall",
+      "category": "Staffer",
+      "amount": 6
+    },
+    {
+      "name": "American Investment Council f/k/a PEGCC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "American Investment Council f/k/a PEGCC",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Academy of Radiology Research",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Banner Public Affairs, LLC",
+      "category": "Firm",
+      "amount": 4
+    },
+    {
+      "name": "Express Scripts, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "NTT Data Federal Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Unico Incorporated",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Hyundai Motor Company",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "GREENBERG TRAURIG, LLP",
+      "category": "Firm",
+      "amount": 11
+    },
+    {
+      "name": "Randi F. Hutchinson",
+      "category": "Staffer",
+      "amount": 23
+    },
+    {
+      "name": "TRUGREEN Limited Partnership",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "National Association of the Remodeling Industry",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Dickstein & Shapiro, LLP",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Lorillard, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Alaska Structures, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "American Society Interventional Pain Physicians",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Village of Bald Head Island",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Arkansas State University",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "IHS",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "DICKSTEIN SHAPIRO LLP",
+      "category": "Firm",
+      "amount": 11
+    },
+    {
+      "name": "Jackson and Tull Chartered Engineers",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "INDEPENDENT DIRECTORS OF FEDERATED FAMILY OF MUTUAL FUNDS",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "INVESTMENT COMPANY INSTITUTE (ICI)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "American College of Rheumatology",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "VeriMed, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ARKANSAS STATE UNIVERSITY",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "AMERICAN SOCIETY OF INTERVENTIONAL PAIN PHYSICIANS",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The ServiceMaster Company",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "LORILLARD TOBACCO COMPANY",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "PEABODY ENERGY",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ARTEL, INC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "EXOXEMIS",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "American Forest & Paper Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "American Forest & Paper Association",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Christopher Charles Mitton",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Seafarers International Union of N.A. - AGLIW",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Seafarers International Union of N.A. - AGLIW",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Brian W. Schoeneman",
+      "category": "Staffer",
+      "amount": 3
+    },
+    {
+      "name": "Transportation Institute",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Acacia Strategies LLC",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "American Maritime Congress",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "AMERICAN MARITIME CONGRESS",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "JUNIPER NETWORKS, INC.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "JC Watts Companies",
+      "category": "Firm",
+      "amount": 4
+    },
+    {
+      "name": "Benjamin J. Siegrist",
+      "category": "Staffer",
+      "amount": 10
+    },
+    {
+      "name": "Symfodium",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "LLOG/Deep Gulf Energy",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "J.C. WATTS COMPANIES",
+      "category": "Firm",
+      "amount": 5
+    },
+    {
+      "name": "Owner-Operator Independent Drivers Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Owner-Operator Independent Drivers Association",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Bethany Christian Services",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "City of Fort Smith, Arkansas",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "SYNTROLEUM CORPORATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "University of Arkansas--Ft. Smith",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "GOLDEN HILL PAUGUSSETTS",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Hogan Lovells US LLP (on behalf of Bowl Championship Series)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Harris Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Harris Corporation",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Adam J. Sullivan",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "The Northeast MAGLEV, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "category": "Firm",
+      "amount": 17
+    },
+    {
+      "name": "Darien Bailey Flowers",
+      "category": "Staffer",
+      "amount": 17
+    },
+    {
+      "name": "Edison International",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Patients Rights Action Fund",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Apollo Education Group, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "TOSHIBA CORPORATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "NetSpend Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "McDonald's Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Constellis Holdings, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Coalition for Patient Vision Care Safety",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Walgreen Co.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "FedEx Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "National Head Start Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "NMAC (on behalf of the HIV/STD Partnership)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Forest County Potawatomi Community",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Foxhill Capital Partners LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Kalorama Group, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "New Federalism Fund",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "CROWELL & MORING LLP",
+      "category": "Firm",
+      "amount": 3
+    },
+    {
+      "name": "Drue Pearce",
+      "category": "Staffer",
+      "amount": 3
+    },
+    {
+      "name": "KidsVax (On behalf of Washington Vaccine Association)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Terrorist Victims w/ Judgments Against Iran (including foreign nationals)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Virginia Hospital & Healthcare Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Virginia Hospital & Healthcare Association",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Thelma Drake",
+      "category": "Staffer",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 7
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 8,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 9,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 10,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 5,
+      "value": 1
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 1
+    },
+    {
+      "source": 15,
+      "target": 5,
+      "value": 1
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "value": 1
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "value": 1
+    },
+    {
+      "source": 20,
+      "target": 18,
+      "value": 1
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "value": 1
+    },
+    {
+      "source": 22,
+      "target": 18,
+      "value": 4
+    },
+    {
+      "source": 23,
+      "target": 22,
+      "value": 1
+    },
+    {
+      "source": 24,
+      "target": 22,
+      "value": 1
+    },
+    {
+      "source": 25,
+      "target": 22,
+      "value": 1
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "value": 11
+    },
+    {
+      "source": 29,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "value": 1
+    },
+    {
+      "source": 31,
+      "target": 28,
+      "value": 1
+    },
+    {
+      "source": 32,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 33,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 34,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 30,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 35,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 36,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 37,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 35,
+      "target": 38,
+      "value": 1
+    },
+    {
+      "source": 38,
+      "target": 28,
+      "value": 11
+    },
+    {
+      "source": 39,
+      "target": 38,
+      "value": 1
+    },
+    {
+      "source": 40,
+      "target": 38,
+      "value": 1
+    },
+    {
+      "source": 41,
+      "target": 38,
+      "value": 1
+    },
+    {
+      "source": 42,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 43,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 44,
+      "target": 38,
+      "value": 1
+    },
+    {
+      "source": 45,
+      "target": 38,
+      "value": 1
+    },
+    {
+      "source": 46,
+      "target": 38,
+      "value": 1
+    },
+    {
+      "source": 47,
+      "target": 38,
+      "value": 1
+    },
+    {
+      "source": 48,
+      "target": 38,
+      "value": 1
+    },
+    {
+      "source": 49,
+      "target": 38,
+      "value": 1
+    },
+    {
+      "source": 50,
+      "target": 38,
+      "value": 1
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "value": 1
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "value": 1
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "value": 1
+    },
+    {
+      "source": 55,
+      "target": 56,
+      "value": 1
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "value": 1
+    },
+    {
+      "source": 58,
+      "target": 56,
+      "value": 1
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "value": 1
+    },
+    {
+      "source": 60,
+      "target": 56,
+      "value": 1
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "value": 1
+    },
+    {
+      "source": 62,
+      "target": 63,
+      "value": 4
+    },
+    {
+      "source": 64,
+      "target": 62,
+      "value": 1
+    },
+    {
+      "source": 65,
+      "target": 66,
+      "value": 1
+    },
+    {
+      "source": 66,
+      "target": 63,
+      "value": 5
+    },
+    {
+      "source": 67,
+      "target": 68,
+      "value": 1
+    },
+    {
+      "source": 68,
+      "target": 63,
+      "value": 1
+    },
+    {
+      "source": 69,
+      "target": 62,
+      "value": 1
+    },
+    {
+      "source": 70,
+      "target": 66,
+      "value": 1
+    },
+    {
+      "source": 71,
+      "target": 62,
+      "value": 1
+    },
+    {
+      "source": 72,
+      "target": 66,
+      "value": 1
+    },
+    {
+      "source": 73,
+      "target": 66,
+      "value": 1
+    },
+    {
+      "source": 74,
+      "target": 66,
+      "value": 1
+    },
+    {
+      "source": 75,
+      "target": 76,
+      "value": 1
+    },
+    {
+      "source": 76,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 78,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 79,
+      "target": 80,
+      "value": 17
+    },
+    {
+      "source": 81,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 82,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 83,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 84,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 85,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 86,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 87,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 88,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 89,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 90,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 91,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 92,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 93,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 94,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 95,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 96,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 97,
+      "target": 98,
+      "value": 1
+    },
+    {
+      "source": 98,
+      "target": 99,
+      "value": 3
+    },
+    {
+      "source": 100,
+      "target": 98,
+      "value": 1
+    },
+    {
+      "source": 101,
+      "target": 98,
+      "value": 1
+    },
+    {
+      "source": 102,
+      "target": 103,
+      "value": 1
+    },
+    {
+      "source": 103,
+      "target": 104,
+      "value": 1
+    }
+  ]
+}

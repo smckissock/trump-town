@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,10 +9,21 @@ using Newtonsoft.Json;
 
 namespace Importer {
 
+    public class AgencyLobbyists {
+        public string agency;
+        public string id;
+        public int lobbyists;
+        public AgencyLobbyists(string agency, string id, int lobbyists) {
+            this.agency = agency;
+            this.id = id;
+            this.lobbyists = lobbyists;
+        }
+    }
+
     public class NodeJson {
         public string name;
         public string category;
-        public int amount;
+        public int amount; 
 
         public NodeJson(string name, string category, string amount) {
             this.name = name;
@@ -28,8 +40,7 @@ namespace Importer {
         public LinkJson(string sourceId, string targetId, string count) {
             this.source = Convert.ToInt32(sourceId) ;
             this.target = Convert.ToInt32(targetId);
-            this.value = Convert.ToInt32(count)
-                ;
+            this.value = Convert.ToInt32(count);
         }
     }
 
@@ -82,9 +93,13 @@ namespace Importer {
     }
 
     public class NodesAndLinks {
+        public int nodeCount;
+        public string agency;
         public List<NodeJson> nodes;
         public List<LinkJson> links;
-        public NodesAndLinks(List<NodeJson> nodes, List<LinkJson> links) {
+        public NodesAndLinks(int nodeCount, string agency, List<NodeJson> nodes, List<LinkJson> links) {
+            this.nodeCount = nodeCount;
+            this.agency = agency;
             this.nodes = nodes;
             this.links = links;
         }
@@ -97,20 +112,71 @@ namespace Importer {
         private static Dictionary<string, Link> links;
 
         public static void Import(string path) {
+            AllAgencies(path);
+        }
 
-            nodes = new Dictionary<string, Node>();
-            links = new Dictionary<string, Link>();
+        // Maximum number nodes in any category - for chart height
+        public static int NodeCount() {
+            int clientCount = 0;
+            int firmCount = 0;
+            int stafferCount = 0;
 
-            MakeNodesAndLinks();
-            MakeJson(path);
+            foreach (Node node in nodes.Values) {
+                if (node.Category == "Client")
+                    clientCount++;
+                if (node.Category == "Firm")
+                    firmCount++;
+                if (node.Category == "Staffer")
+                    stafferCount++;
+            }
+            var max = clientCount;
+            if (firmCount > max)
+                max = firmCount;
+            if (stafferCount > max)
+                max = stafferCount;
 
-            Console.WriteLine("Nodes: " + nodes.Count().ToString());
-            Console.WriteLine("Links: " + links.Count().ToString());
+            return max;
+        }
+
+        public static void AllAgencies(string path) {
+            var agencies = new List<AgencyLobbyists>();
+
+            var reader = Util.Query("SELECT DISTINCT AgencyID, Agency FROM LobbyistView");
+            while (reader.Read()) {
+                nodes = new Dictionary<string, Node>();
+                links = new Dictionary<string, Link>();
+
+                string agencyId = reader["AgencyId"].ToString();
+                string agency = reader["Agency"].ToString();
+
+                MakeNodesAndLinks(agencyId);
+                MakeJson(path, agencyId, agency);
+                agencies.Add(new AgencyLobbyists(agency, agencyId, LobbyistCount(nodes)));
+
+                Console.WriteLine("Nodes: " + nodes.Count().ToString() + "  Links: " + links.Count().ToString() + " " + agency);
+            }
+            MakeAgencyLobbyistJson(path, agencies);
             Console.ReadLine();
         }
 
-        public static void MakeNodesAndLinks() {
-            var reader = Util.Query("SELECT * FROM LobbyistView WHERE AgencyID = 63");  // 46
+        private static int LobbyistCount(Dictionary<string, Node> nodes) {
+            int count = 0;
+            foreach (Node node in nodes.Values)
+                if (node.Category == "Staffer")
+                    count++;
+            return count;
+        }
+
+        private static void MakeAgencyLobbyistJson(string path, List<AgencyLobbyists> agencies) {
+            string json = JsonConvert.SerializeObject(agencies);
+            var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
+            System.IO.File.WriteAllText(path + "agencies.json", niceJson);
+
+            Console.WriteLine(agencies.Count().ToString() + " agencies");
+        }
+
+        public static void MakeNodesAndLinks(string agencyId) {
+            var reader = Util.Query("SELECT * FROM LobbyistView WHERE AgencyID = " + agencyId);  
             while (reader.Read()) {
                 var client = AddNode(reader["Client"].ToString(), "Client");
                 var firm = AddNode(reader["Firm"].ToString(), "Firm");
@@ -121,8 +187,7 @@ namespace Importer {
             }
         }
 
-        private static void MakeJson(string path) {
-            
+        private static void MakeJson(string path, string agencyId, string agency) {            
             var nodeList = new List<NodeJson>();
             foreach (Node node in nodes.Values)
                 nodeList.Add(node.NodeJson());
@@ -131,13 +196,12 @@ namespace Importer {
             foreach (Link link in links.Values) {
                 linkJsons.Add(link.LinkJson());
             }
-
-            var data = new NodesAndLinks(nodeList, linkJsons);
+            var data = new NodesAndLinks(NodeCount(), agency, nodeList, linkJsons);
 
             string json = JsonConvert.SerializeObject(data);
             var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
             
-            System.IO.File.WriteAllText(path + "lobbyists.json", niceJson);
+            System.IO.File.WriteAllText(path + agencyId.ToString() + ".json", niceJson);
         }
         
 

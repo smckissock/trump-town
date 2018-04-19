@@ -1,0 +1,58 @@
+{
+  "nodeCount": 2,
+  "agency": "Consumer Product Safety Commission",
+  "nodes": [
+    {
+      "name": "Home Safety Council",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Home Safety Council",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Patricia Hines Adkins",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "NATIONAL ASSN OF PSYCHIATRIC HEALTH SYSTEMS",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "NATIONAL ASSN OF PSYCHIATRIC HEALTH SYSTEMS",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Julia Erin Richardson",
+      "category": "Staffer",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1
+    }
+  ]
+}

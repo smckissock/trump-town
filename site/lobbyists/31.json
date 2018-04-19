@@ -1,0 +1,308 @@
+{
+  "nodeCount": 22,
+  "agency": "Treasury",
+  "nodes": [
+    {
+      "name": "Wine & Spirits Wholesalers of America",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "O'Rourke & Nappi, LLP",
+      "category": "Firm",
+      "amount": 12
+    },
+    {
+      "name": "Bradley Rolison Bailey",
+      "category": "Staffer",
+      "amount": 14
+    },
+    {
+      "name": "National Marine Manufacturers Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Love's Travel Stops & Country Stores, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Coalition for Plant and Life Sciences",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Russell Group, Inc.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "The Travelers Companies Inc. and subsidiaries",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ADS Alliance Data Systems",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "First American Financial Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "H & R Block, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "International Game Technology",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "L Brands, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Lazard Freres & Co. LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Medical Device Manufacturers Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Loan Syndication and Trading Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ALICO, INC.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Lesher, Russell & Barron, Inc.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Condortech Services, Incorporated",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Gateway Consulting, LLC",
+      "category": "Firm",
+      "amount": 6
+    },
+    {
+      "name": "Jason Myung-Ik Chung",
+      "category": "Staffer",
+      "amount": 6
+    },
+    {
+      "name": "Bacilligen",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Livingston Group, LLC on behalf of Bohanan Huston, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Livingston Group, LLC on behalf of Arcadian Networks",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Livingston Group, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Samsung Electronics America, Incorporated",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "CUBA DEMOCRACY PUBLIC ADVOCACY, CORP.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "CUBA DEMOCRACY PUBLIC ADVOCACY, CORP.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Mauricio Claver-Carone",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "AMERICAN ART THERAPY ASSOCIATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "American Art Therapy Association",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Christopher Campbell",
+      "category": "Staffer",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 12
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "value": 1
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "value": 6
+    },
+    {
+      "source": 21,
+      "target": 19,
+      "value": 1
+    },
+    {
+      "source": 22,
+      "target": 19,
+      "value": 1
+    },
+    {
+      "source": 23,
+      "target": 19,
+      "value": 1
+    },
+    {
+      "source": 24,
+      "target": 19,
+      "value": 1
+    },
+    {
+      "source": 25,
+      "target": 19,
+      "value": 1
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "value": 1
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "value": 1
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "value": 1
+    }
+  ]
+}

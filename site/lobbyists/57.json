@@ -1,0 +1,153 @@
+{
+  "nodeCount": 6,
+  "agency": "Management and Budget",
+  "nodes": [
+    {
+      "name": "GILEAD SCIENCES, INC.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "GILEAD SCIENCES, INC.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Joseph J. Grogan",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "National Association of Manufacturers",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "National Association of Manufacturers",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Rosario Anthony Palmieri",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "The Business Roundtable, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Business Roundtable, Inc.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Marcus C. Peacock",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Education Finance Council, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Education Finance Council, Inc.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Peter Warren",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Honeywell International",
+      "category": "Client",
+      "amount": 3
+    },
+    {
+      "name": "Honeywell International",
+      "category": "Firm",
+      "amount": 3
+    },
+    {
+      "name": "James William Carroll",
+      "category": "Staffer",
+      "amount": 6
+    },
+    {
+      "name": "FORD MOTOR COMPANY",
+      "category": "Client",
+      "amount": 3
+    },
+    {
+      "name": "FORD MOTOR COMPANY",
+      "category": "Firm",
+      "amount": 3
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 3
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 3
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 3
+    },
+    {
+      "source": 16,
+      "target": 14,
+      "value": 3
+    }
+  ]
+}

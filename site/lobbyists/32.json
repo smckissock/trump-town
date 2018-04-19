@@ -1,0 +1,1208 @@
+{
+  "nodeCount": 98,
+  "agency": "Agriculture",
+  "nodes": [
+    {
+      "name": "CropLife America",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "CROPLIFE AMERICA",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Rebeckah Adcock",
+      "category": "Staffer",
+      "amount": 2
+    },
+    {
+      "name": "AMERICAN FARM BUREAU FED",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "AMERICAN FARM BUREAU FED",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "NATIONAL CORN GROWERS ASSN",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "NATIONAL CORN GROWERS ASSN",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Brooke Shupe Appleton",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Kristi Boswell",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "AMERICAN HORSE COUNCIL",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "American Horse Council",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Dudley Hoskins",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "American Cancer Society Cancer Action Network (ACSCAN)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Glover Park Group LLC",
+      "category": "Firm",
+      "amount": 66
+    },
+    {
+      "name": "Joel Johnson",
+      "category": "Staffer",
+      "amount": 83
+    },
+    {
+      "name": "KIND Management Inc",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Procter & Gamble Company",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Brewer, Attorneys & Counselors (On Behalf of 3M)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Wilson, Sonsini, Goodrich and Rosati (On Behalf of Mylan N.V)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Pearson Education, Inc./ NCS Pearson Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Capital One Financial Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "AstraZeneca Pharmaceuticals LP",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Wanxiang America Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Fluor Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Exelon Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Apple, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Facebook Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Ogilvy Government Relations (On Behalf of TDI-USA Holdings Corp. (TDI))",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Transmission Developers, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "BNSF Railway Company",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Churchill Downs Incorporated",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Bickel & Brewer (On Behalf of St.Joe Company)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Textron Systems Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Kellogg Company",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Pharmaceutical Research and Manufacturers of America (PhRMA)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Toyota Motor North America, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Vertex Pharmaceuticals Incorporated",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Mortgage Bankers Association of America",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Amerilink Telecom Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Dendreon Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "SHC, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Federal Home Loan Bank of Dallas",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ProtectingAmerica.org",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "LaserCard Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Prime Therapeutics",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "National Football League",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "UnitedHealth Group",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Rockefeller Family Fund",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The National Campaign",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "WellPoint Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Regence",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Coca-Cola",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Whole Foods Market, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Morrison & Foerster LLP",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Toys R Us",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Cempra Pharmaceuticals Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Sodexho, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "National Air Traffic Controllers Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Glover Park Group",
+      "category": "Firm",
+      "amount": 6
+    },
+    {
+      "name": "Airbus Group,Inc formerly reported as (AIRBUS IND. & AIRBUS IND. NA HLDS, INC.)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "DEAN FOODS COMPANY",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ERNST & YOUNG LLP",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "MAJOR LEAGUE BASEBALL PLAYERS ASSOCIATION (MLBPA)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ADVANCED MICRO DEVICES",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "RECORDING INDUSTRY ASSOCIATION OF AMERICA",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "BICKLE AND BREWER",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "News Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "MATCH Coalition",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "American Bankers Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "American Psychiatric Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Zelle, Hofman, Voelbel, Mason & Gette LLP",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "American Forest & Paper Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Sodexho",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Akin Gump Strauss Hauer & Feld LLP on behalf of Kohlberg, Kravis Roberts & Co.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Kinetic Concepts Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Standard Chartered Bank",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "MoneyGram International",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Morrison and Foerster LLP",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Zuckerman, Spaeder, Goldstein, Taylor & Kolker, LLP",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "America’s Health Insurance Plans (AHIP)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "CLINTON GROUP, INC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "THE GLOVER PARK GROUP",
+      "category": "Firm",
+      "amount": 8
+    },
+    {
+      "name": "KOREA-UNITED STATES EXCHANGE COUNCIL (KORUSEC)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "LAZARD FRERES & CO, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "NEXTEL COMMUNICATIONS, INC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "THE COALITION TO PRESERVE DSHEA",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "SWIDLER BERLIN LLP (ASBESTOS STUDY GROUP)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "AMERICAN VISUAL ARTS ALLIANCE",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ALEXANDER STRATEGY GROUP (MONEYGRAM INTERNATIONAL)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "LAZARD FRERES & CO. LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "THE HARBOUR GROUP, LLC",
+      "category": "Firm",
+      "amount": 3
+    },
+    {
+      "name": "COALITION FOR MUNICIPAL LEASING",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "COALITION TO PRESERVE DSHEA",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "VISA, INC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Better World Campaign",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "STANDARD CHARTERED BANK",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "WARNER MUSIC GROUP",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION (PCMA)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "MONEYGRAM INTERNATIONAL",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "America's Health Insurance Plans",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "National Cooperative Services Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "National Cooperative Services Corporation",
+      "category": "Firm",
+      "amount": 4
+    },
+    {
+      "name": "Russell Weldon Laird",
+      "category": "Staffer",
+      "amount": 4
+    },
+    {
+      "name": "national rural utilities",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "National Rural Utilities Cooperative Finance Corporation (CFC)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Rural Telephone Finance Cooperative",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "National Grocers Association",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "National Grocers Association",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "Margaret Piggott Lyons",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Coalition of Fort Hood Heroes",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Dinsmore & Shohl, LLP",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "Reed Darrow Rubinstein",
+      "category": "Staffer",
+      "amount": 6
+    },
+    {
+      "name": "Wacker Chemical Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "GREENBERG TRAURIG, LLP",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "Chamber of Commerce of the U.S.A.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Chamber of Commerce of the U.S.A.",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "SNAC International",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "SNAC International",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Kailee Marie Tkacz",
+      "category": "Staffer",
+      "amount": 3
+    },
+    {
+      "name": "Corn Refiners Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Corn Refiners Association",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Rural Wireless Association, Inc. (fka Rural Telecommunications Group)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "BENNET & BENNET, PLLC",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Kenneth Johnson",
+      "category": "Staffer",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 2
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 66
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 16,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 17,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 18,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 19,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 20,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 21,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 22,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 23,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 24,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 25,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 26,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 27,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 28,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 29,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 30,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 31,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 32,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 33,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 34,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 35,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 36,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 37,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 38,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 39,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 40,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 41,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 42,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 43,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 44,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 45,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 46,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 47,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 48,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 49,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 50,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 51,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 52,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 53,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 54,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 55,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 56,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "value": 1
+    },
+    {
+      "source": 58,
+      "target": 14,
+      "value": 6
+    },
+    {
+      "source": 59,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 60,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 61,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 62,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 63,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 64,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 65,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 66,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 67,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 68,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 69,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 70,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 71,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 72,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 73,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 74,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 75,
+      "target": 58,
+      "value": 1
+    },
+    {
+      "source": 76,
+      "target": 58,
+      "value": 1
+    },
+    {
+      "source": 77,
+      "target": 58,
+      "value": 1
+    },
+    {
+      "source": 78,
+      "target": 58,
+      "value": 1
+    },
+    {
+      "source": 79,
+      "target": 58,
+      "value": 1
+    },
+    {
+      "source": 80,
+      "target": 81,
+      "value": 1
+    },
+    {
+      "source": 81,
+      "target": 14,
+      "value": 8
+    },
+    {
+      "source": 82,
+      "target": 81,
+      "value": 1
+    },
+    {
+      "source": 83,
+      "target": 81,
+      "value": 1
+    },
+    {
+      "source": 84,
+      "target": 81,
+      "value": 1
+    },
+    {
+      "source": 85,
+      "target": 81,
+      "value": 1
+    },
+    {
+      "source": 86,
+      "target": 81,
+      "value": 1
+    },
+    {
+      "source": 87,
+      "target": 81,
+      "value": 1
+    },
+    {
+      "source": 88,
+      "target": 81,
+      "value": 1
+    },
+    {
+      "source": 89,
+      "target": 90,
+      "value": 1
+    },
+    {
+      "source": 90,
+      "target": 14,
+      "value": 3
+    },
+    {
+      "source": 91,
+      "target": 90,
+      "value": 1
+    },
+    {
+      "source": 92,
+      "target": 90,
+      "value": 1
+    },
+    {
+      "source": 93,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 94,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 95,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 96,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 97,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 98,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 99,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 100,
+      "target": 101,
+      "value": 1
+    },
+    {
+      "source": 101,
+      "target": 102,
+      "value": 4
+    },
+    {
+      "source": 103,
+      "target": 101,
+      "value": 1
+    },
+    {
+      "source": 104,
+      "target": 101,
+      "value": 1
+    },
+    {
+      "source": 105,
+      "target": 101,
+      "value": 1
+    },
+    {
+      "source": 106,
+      "target": 107,
+      "value": 2
+    },
+    {
+      "source": 107,
+      "target": 108,
+      "value": 1
+    },
+    {
+      "source": 109,
+      "target": 110,
+      "value": 2
+    },
+    {
+      "source": 110,
+      "target": 111,
+      "value": 2
+    },
+    {
+      "source": 112,
+      "target": 113,
+      "value": 2
+    },
+    {
+      "source": 113,
+      "target": 111,
+      "value": 2
+    },
+    {
+      "source": 114,
+      "target": 115,
+      "value": 2
+    },
+    {
+      "source": 115,
+      "target": 111,
+      "value": 2
+    },
+    {
+      "source": 116,
+      "target": 117,
+      "value": 1
+    },
+    {
+      "source": 117,
+      "target": 118,
+      "value": 1
+    },
+    {
+      "source": 119,
+      "target": 120,
+      "value": 1
+    },
+    {
+      "source": 120,
+      "target": 118,
+      "value": 1
+    },
+    {
+      "source": 107,
+      "target": 118,
+      "value": 1
+    },
+    {
+      "source": 121,
+      "target": 122,
+      "value": 1
+    },
+    {
+      "source": 122,
+      "target": 123,
+      "value": 1
+    }
+  ]
+}

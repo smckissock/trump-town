@@ -126,7 +126,7 @@
         <script>
 
             //d3.json("budget.json", function (data) {
-            d3.json("lobbyists.json", function (data) {
+            d3.json("10.json", function (data) {
                 drawSankey(data);
             });
 
@@ -137,8 +137,10 @@
                     top: 20, right: 30, bottom: 6, left: 1
                 };
 
+                const nodeHeight = 30;
+
                 const totalWidth = 700; // 700
-                const totalHeight = 500;  // 600
+                const totalHeight = nodeHeight * data.nodeCount;  // 600
 
                 const width = totalWidth - margin.left - margin.right;
                 const height = totalHeight - margin.top - margin.bottom;
@@ -201,24 +203,25 @@
                     .text(function (d) { return d.name; });
 
                 node.append("text")
-                    .attr("x", 7 + sankey.nodeWidth())
-                    .attr("y", function (d) { return (d.dy / 2) - 2; })
+                    .attr("x", 3 + sankey.nodeWidth())
+                    //.attr("y", function (d) { return (d.dy / 2) - 2; })
+                    .attr("y", function (d) { return (d.dy / 2) + 4; })
                     .attr("text-anchor", "start")
                     .attr("fill", "#404040")
                     .attr("font-size", "10px")
                     //.attr("font-weight", "bold")
                     .text(d => d.name);
 
-                node.append("text")
-                    .attr("x", 8 + sankey.nodeWidth())
-                    .attr("y", function (d) { return (d.dy / 2) + 12; })
-                    .attr("text-anchor", "start")
-                    .attr("font-size", 11)
-                    .attr("fill", "grey")
-                    .text(function (d) {
-                        if (d.amount)
-                            return d.amount + "  (" + pct(+d.amount / 2600) + ")";
-                    });
+                //node.append("text")
+                //    .attr("x", 8 + sankey.nodeWidth())
+                //    .attr("y", function (d) { return (d.dy / 2) + 12; })
+                //    .attr("text-anchor", "start")
+                //    .attr("font-size", 11)
+                //    .attr("fill", "grey")
+                //    .text(function (d) {
+                //        if (d.amount)
+                //            return d.amount + "  (" + pct(+d.amount / 2600) + ")";
+                //    });
 
                 function dragmove(d) {
                     d3.select(this)

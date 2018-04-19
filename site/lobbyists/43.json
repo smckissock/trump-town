@@ -1,0 +1,53 @@
+{
+  "nodeCount": 2,
+  "agency": "Federal Labor Relations Authority",
+  "nodes": [
+    {
+      "name": "Delta Air Lines, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Delta Air Lines, Inc.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Andrea F. Newman",
+      "category": "Staffer",
+      "amount": 2
+    },
+    {
+      "name": "NORTHWEST AIRLINES, INC. (acquired by Delta Air Lines, Inc.)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "NORTHWEST AIRLINES, INC. (acquired by Delta Air Lines, Inc.)",
+      "category": "Firm",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 1
+    }
+  ]
+}

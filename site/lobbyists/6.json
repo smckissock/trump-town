@@ -1,0 +1,33 @@
+{
+  "nodeCount": 1,
+  "agency": "National Endowment for the Arts",
+  "nodes": [
+    {
+      "name": "Amgen, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Amgen, Inc.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "William O'Brien",
+      "category": "Staffer",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1
+    }
+  ]
+}

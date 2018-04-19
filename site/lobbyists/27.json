@@ -1,0 +1,183 @@
+{
+  "nodeCount": 8,
+  "agency": "Defense",
+  "nodes": [
+    {
+      "name": "NanoRacks, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Van Scoyoc Associates",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "Christopher M. Shank",
+      "category": "Staffer",
+      "amount": 2
+    },
+    {
+      "name": "Jacobs Engineering Group, Inc. dba Jacobs",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "North Eastern Aeronautical, Inc. (NEANY, Inc.)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "North Eastern Aeronautical, Inc. (NEANY, Inc.)",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Heather A. Wilson",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Adara Networks",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "BLANK ROME GOVERNMENT RELATIONS",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Edmund Peter Giambastiani III",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Palantir Technologies, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Palantir Technologies, Inc.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Justin D. Mikolay",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Aerospace Industries Association of America, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Aerospace Industries Association of America, Inc.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Mark T. Esper",
+      "category": "Staffer",
+      "amount": 3
+    },
+    {
+      "name": "Raytheon Company",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Raytheon Company",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Chamber of Commerce of the U.S.A.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Chamber of Commerce of the U.S.A.",
+      "category": "Firm",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 2
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 1
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 1
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 17,
+      "target": 15,
+      "value": 1
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "value": 1
+    },
+    {
+      "source": 19,
+      "target": 15,
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,1623 @@
+{
+  "nodeCount": 125,
+  "agency": "State",
+  "nodes": [
+    {
+      "name": "Air Evac Lifeteam",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "category": "Firm",
+      "amount": 4
+    },
+    {
+      "name": "Riley Barnes",
+      "category": "Staffer",
+      "amount": 4
+    },
+    {
+      "name": "Hudson Advisors (on behalf of Lone Star Funds)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Organization of Iranian American Communities",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Blumberg Capital Partners",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "VALASSIS DIRECT MAIL, INC (FORMERLY ADVO)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Carmen Group Incorporated",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "Aaron C. Chang",
+      "category": "Staffer",
+      "amount": 2
+    },
+    {
+      "name": "WASHINGTON HOSPITAL CENTER",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Centrus Energy Corp.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Centrus Energy Corp.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Christine M. Ciccone",
+      "category": "Staffer",
+      "amount": 2
+    },
+    {
+      "name": "Honeywell International",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Honeywell International",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Ukraine Investment Alliance",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "BGR Government Affairs",
+      "category": "Firm",
+      "amount": 9
+    },
+    {
+      "name": "Charles Faulkner",
+      "category": "Staffer",
+      "amount": 14
+    },
+    {
+      "name": "Poly Technologies, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Continental Aviation Services",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Claremont Group",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "WPI Services, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Barbour Griffith & Rogers, LLC d/b/a BGR Holding",
+      "category": "Firm",
+      "amount": 5
+    },
+    {
+      "name": "Chelsea Therapeutics",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Abakan Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Airbus Group, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Asia Pacific Council of American Chambers of Commerce",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Raytheon Company",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Huntington Ingalls Incorporated",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Kurdistan Regional Government",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "BGR Gabara Ltd (for the Embassy of the Republic of Kazakhstan in London, UK)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Government of Mauritius",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Hemispherx Biopharma, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Squire Patton Boggs",
+      "category": "Firm",
+      "amount": 7
+    },
+    {
+      "name": "Taryn Frideres",
+      "category": "Staffer",
+      "amount": 19
+    },
+    {
+      "name": "Securiport LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Wetlands Management LP",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "PATTON BOGGS LLP",
+      "category": "Firm",
+      "amount": 7
+    },
+    {
+      "name": "1 Science Holdings, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Level 3 Communications, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Breaux Lott Leadership Group",
+      "category": "Firm",
+      "amount": 5
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Exxon Mobil Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "SpaceX",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Penn National Gaming",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "AT&T",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "FedEx Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Ethan Allen Interiors Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Airbus Group",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "1-800 CONTACTS",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Las Vegas Sands Corp.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "City of Richmond",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Ohio University",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Arnold Magnetic Technologies Corp.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "SeaBridge Ferry Services, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "LOCKHEED MARTIN CORPORATION",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "William B. Inglee",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Inovio Pharmaceuticals",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "McGuireWoods Consulting (A Subsidiary of McGuireWoods LLP)",
+      "category": "Firm",
+      "amount": 11
+    },
+    {
+      "name": "Robert K. Wasinger",
+      "category": "Staffer",
+      "amount": 12
+    },
+    {
+      "name": "Quest Diagnostics Incorporated",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Amazon.com",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Infosys Limited",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Tactical Air Support, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Teledyne Technolgies Incorporated",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Teledyne Brown Engineering, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "AmeriHealth Caritas",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Phoenix Home Furnishings, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Victims of Terrorism - East Africa",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "VERIZON",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Buckeye Partners, L.P.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "MCGUIREWOODS CONSULTING",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Heritage Action for America",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Heritage Action for America",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "William Wolfe",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "General Motors Corp.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Duberstein Group Inc.",
+      "category": "Firm",
+      "amount": 27
+    },
+    {
+      "name": "Eric Ueland",
+      "category": "Staffer",
+      "amount": 43
+    },
+    {
+      "name": "Higher One, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "THE DUBERSTEIN GROUP, INC.",
+      "category": "Firm",
+      "amount": 16
+    },
+    {
+      "name": "Griffon Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Accretive Health",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Estee Lauder Companies",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Kellogg Company",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "PROMONTORY INTERFINANCIAL NETWORK",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "PhRMA Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Health Net, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Wachtell, Lipton, Rosen & Katz (on behalf of Alibaba Group)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Chesapeake Energy Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Pfizer Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "National Math and Science Initiative",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "sanofi-aventis U.S. Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Grocery Manufacturers Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Bank of New York Mellon",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "PEPSICO, INC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "HASBRO, INC.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Broadridge Financial Solutions, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Health Net Federal Services",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Broadridge Securities Processing Solutions, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "HealthNet",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Novartis Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "TIME WARNER INC.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "AMERICA'S HEALTH INSURANCE PLANS",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "BUSINESS ROUNDTABLE",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "UNITED AIRLINES, INC.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "CSX CORPORATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "HANESBRANDS, INC.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "COMCAST CORPORATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "FEDERATION OF KOREAN INDUSTRIES",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "BP AMERICA, INC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "SUPERVALU",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "THE GOLDMAN SACHS GROUP, INC.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ACCENTURE LLP",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "PERSONAL CARE PRODUCTS COUNCIL",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Amgen Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "AMERICAN APPAREL & FOOTWEAR ASSOCIATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ALCATEL-LUCENT/formerly LUCENT TECHNOLOGIES",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "AMERICAN GAMING ASSOCIATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "DIRECT MARKETING ASSOCIATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "SARA LEE CORPORATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "columbia Helicopters",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Hoekstra Global Strategies",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "Peter Hoekstra",
+      "category": "Staffer",
+      "amount": 4
+    },
+    {
+      "name": "Core Energy",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Columbia Helicopters, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "DICKSTEIN SHAPIRO LLP",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Zhejiang Dehua TB Import & Export Co., Ltd.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Dickstein & Shapiro, LLP",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Jaguar Land Rover North America, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Jaguar Land Rover North America, LLC",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Scott Brown",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "American Fuel & Petrochemical Manufacturers",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "American Fuel & Petrochemical Manufacturers",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "David Friedman",
+      "category": "Staffer",
+      "amount": 2
+    },
+    {
+      "name": "The Union of Concerned Scientists",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Union of Concerned Scientists",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Cerberus Capital Management",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Summit Global Strategies LLC",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Christopher Smith",
+      "category": "Staffer",
+      "amount": 2
+    },
+    {
+      "name": "Harsco Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Sonnenschein Nath & Rosenthal LLP",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Elbit Systems of America, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Elbit Systems of America, LLC",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Thomas L. Carter",
+      "category": "Staffer",
+      "amount": 19
+    },
+    {
+      "name": "Springfield Armory",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Commonwealth Consulting Corporation",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "DEFENSHIELD, INC.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "COMMONWEALTH CONSULTING CORPORATION",
+      "category": "Firm",
+      "amount": 13
+    },
+    {
+      "name": "OUTERLINK CORPORATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Chesapeake Technology International Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "SWIFT ENGINEERING, INC.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "AGENT LOGIC, INC.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Decision Sciences Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Pacific Technologies Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ATLAS AIR WORLDWIDE HOLDINGS, INC.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "ARMACELL, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Calera Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Calera Corporation",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "NATIONAL READY MIXED CONCRETE ASSOCIATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "NATIONAL READY MIXED CONCRETE ASSOCIATION",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "IAI INTERNATIONAL",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "NORTHROP GRUMMAN",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Portland Cement Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Portland Cement Association",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "SENSOR RESEARCH & DEVELOPMENT CORPORATION",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "TRANSFORMATIONAL DEFENSE INDUSTRIES, INC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "WESTLAND TECHNOLOGIES, INC",
+      "category": "Client",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 4
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 2
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 1
+    },
+    {
+      "source": 14,
+      "target": 12,
+      "value": 1
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 1
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "value": 9
+    },
+    {
+      "source": 18,
+      "target": 16,
+      "value": 1
+    },
+    {
+      "source": 19,
+      "target": 16,
+      "value": 1
+    },
+    {
+      "source": 20,
+      "target": 16,
+      "value": 1
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "value": 1
+    },
+    {
+      "source": 22,
+      "target": 17,
+      "value": 5
+    },
+    {
+      "source": 23,
+      "target": 22,
+      "value": 1
+    },
+    {
+      "source": 24,
+      "target": 22,
+      "value": 1
+    },
+    {
+      "source": 25,
+      "target": 16,
+      "value": 1
+    },
+    {
+      "source": 26,
+      "target": 16,
+      "value": 1
+    },
+    {
+      "source": 27,
+      "target": 16,
+      "value": 1
+    },
+    {
+      "source": 28,
+      "target": 16,
+      "value": 1
+    },
+    {
+      "source": 29,
+      "target": 16,
+      "value": 1
+    },
+    {
+      "source": 30,
+      "target": 22,
+      "value": 1
+    },
+    {
+      "source": 31,
+      "target": 22,
+      "value": 1
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "value": 7
+    },
+    {
+      "source": 35,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "value": 1
+    },
+    {
+      "source": 37,
+      "target": 34,
+      "value": 7
+    },
+    {
+      "source": 38,
+      "target": 37,
+      "value": 1
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "value": 1
+    },
+    {
+      "source": 40,
+      "target": 34,
+      "value": 5
+    },
+    {
+      "source": 41,
+      "target": 40,
+      "value": 1
+    },
+    {
+      "source": 42,
+      "target": 40,
+      "value": 1
+    },
+    {
+      "source": 43,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 44,
+      "target": 37,
+      "value": 1
+    },
+    {
+      "source": 45,
+      "target": 40,
+      "value": 1
+    },
+    {
+      "source": 46,
+      "target": 40,
+      "value": 1
+    },
+    {
+      "source": 47,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 48,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 49,
+      "target": 37,
+      "value": 1
+    },
+    {
+      "source": 50,
+      "target": 37,
+      "value": 1
+    },
+    {
+      "source": 51,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 52,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 53,
+      "target": 37,
+      "value": 1
+    },
+    {
+      "source": 54,
+      "target": 37,
+      "value": 1
+    },
+    {
+      "source": 55,
+      "target": 56,
+      "value": 1
+    },
+    {
+      "source": 56,
+      "target": 57,
+      "value": 1
+    },
+    {
+      "source": 58,
+      "target": 59,
+      "value": 1
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "value": 11
+    },
+    {
+      "source": 61,
+      "target": 59,
+      "value": 1
+    },
+    {
+      "source": 62,
+      "target": 59,
+      "value": 1
+    },
+    {
+      "source": 63,
+      "target": 59,
+      "value": 1
+    },
+    {
+      "source": 64,
+      "target": 59,
+      "value": 1
+    },
+    {
+      "source": 65,
+      "target": 59,
+      "value": 1
+    },
+    {
+      "source": 66,
+      "target": 59,
+      "value": 1
+    },
+    {
+      "source": 67,
+      "target": 59,
+      "value": 1
+    },
+    {
+      "source": 68,
+      "target": 59,
+      "value": 1
+    },
+    {
+      "source": 69,
+      "target": 59,
+      "value": 1
+    },
+    {
+      "source": 70,
+      "target": 59,
+      "value": 1
+    },
+    {
+      "source": 71,
+      "target": 72,
+      "value": 1
+    },
+    {
+      "source": 72,
+      "target": 60,
+      "value": 1
+    },
+    {
+      "source": 73,
+      "target": 74,
+      "value": 1
+    },
+    {
+      "source": 74,
+      "target": 75,
+      "value": 1
+    },
+    {
+      "source": 76,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 77,
+      "target": 78,
+      "value": 27
+    },
+    {
+      "source": 79,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 80,
+      "target": 78,
+      "value": 16
+    },
+    {
+      "source": 81,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 82,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 83,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 84,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 85,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 86,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 87,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 88,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 89,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 90,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 91,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 92,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 93,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 94,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 95,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 96,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 97,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 98,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 99,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 100,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 101,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 102,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 103,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 104,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 105,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 106,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 107,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 108,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 109,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 110,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 111,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 112,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 113,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 114,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 115,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 116,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 117,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 118,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 119,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 120,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 121,
+      "target": 122,
+      "value": 1
+    },
+    {
+      "source": 122,
+      "target": 123,
+      "value": 2
+    },
+    {
+      "source": 124,
+      "target": 122,
+      "value": 1
+    },
+    {
+      "source": 125,
+      "target": 126,
+      "value": 1
+    },
+    {
+      "source": 126,
+      "target": 123,
+      "value": 1
+    },
+    {
+      "source": 127,
+      "target": 128,
+      "value": 1
+    },
+    {
+      "source": 128,
+      "target": 123,
+      "value": 1
+    },
+    {
+      "source": 129,
+      "target": 130,
+      "value": 1
+    },
+    {
+      "source": 130,
+      "target": 131,
+      "value": 1
+    },
+    {
+      "source": 132,
+      "target": 133,
+      "value": 1
+    },
+    {
+      "source": 133,
+      "target": 134,
+      "value": 1
+    },
+    {
+      "source": 135,
+      "target": 136,
+      "value": 1
+    },
+    {
+      "source": 136,
+      "target": 134,
+      "value": 1
+    },
+    {
+      "source": 137,
+      "target": 138,
+      "value": 1
+    },
+    {
+      "source": 138,
+      "target": 139,
+      "value": 1
+    },
+    {
+      "source": 140,
+      "target": 141,
+      "value": 1
+    },
+    {
+      "source": 141,
+      "target": 139,
+      "value": 1
+    },
+    {
+      "source": 142,
+      "target": 143,
+      "value": 1
+    },
+    {
+      "source": 143,
+      "target": 144,
+      "value": 1
+    },
+    {
+      "source": 145,
+      "target": 146,
+      "value": 1
+    },
+    {
+      "source": 146,
+      "target": 144,
+      "value": 2
+    },
+    {
+      "source": 147,
+      "target": 148,
+      "value": 1
+    },
+    {
+      "source": 148,
+      "target": 144,
+      "value": 13
+    },
+    {
+      "source": 149,
+      "target": 148,
+      "value": 1
+    },
+    {
+      "source": 150,
+      "target": 148,
+      "value": 1
+    },
+    {
+      "source": 151,
+      "target": 148,
+      "value": 1
+    },
+    {
+      "source": 152,
+      "target": 148,
+      "value": 1
+    },
+    {
+      "source": 153,
+      "target": 148,
+      "value": 1
+    },
+    {
+      "source": 154,
+      "target": 146,
+      "value": 1
+    },
+    {
+      "source": 155,
+      "target": 148,
+      "value": 1
+    },
+    {
+      "source": 156,
+      "target": 148,
+      "value": 1
+    },
+    {
+      "source": 157,
+      "target": 158,
+      "value": 1
+    },
+    {
+      "source": 158,
+      "target": 144,
+      "value": 1
+    },
+    {
+      "source": 159,
+      "target": 160,
+      "value": 1
+    },
+    {
+      "source": 160,
+      "target": 144,
+      "value": 1
+    },
+    {
+      "source": 161,
+      "target": 148,
+      "value": 1
+    },
+    {
+      "source": 162,
+      "target": 148,
+      "value": 1
+    },
+    {
+      "source": 163,
+      "target": 164,
+      "value": 1
+    },
+    {
+      "source": 164,
+      "target": 144,
+      "value": 1
+    },
+    {
+      "source": 165,
+      "target": 148,
+      "value": 1
+    },
+    {
+      "source": 166,
+      "target": 148,
+      "value": 1
+    },
+    {
+      "source": 167,
+      "target": 148,
+      "value": 1
+    }
+  ]
+}

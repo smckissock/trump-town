@@ -1,0 +1,33 @@
+{
+  "nodeCount": 1,
+  "agency": "Office of the Director of National Intelligence",
+  "nodes": [
+    {
+      "name": "Key & Keys, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "McKenna, Long & Aldridge",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Jason Klitenic",
+      "category": "Staffer",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1
+    }
+  ]
+}
