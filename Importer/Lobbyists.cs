@@ -170,7 +170,7 @@ namespace Importer {
         private static void MakeAgencyLobbyistJson(string path, List<AgencyLobbyists> agencies) {
             string json = JsonConvert.SerializeObject(agencies);
             var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
-            System.IO.File.WriteAllText(path + "agencies.json", niceJson);
+            System.IO.File.WriteAllText(path + "data//agencies.json", niceJson);
 
             Console.WriteLine(agencies.Count().ToString() + " agencies");
         }
@@ -201,7 +201,7 @@ namespace Importer {
             string json = JsonConvert.SerializeObject(data);
             var niceJson = Newtonsoft.Json.Linq.JToken.Parse(json).ToString();
             
-            System.IO.File.WriteAllText(path + agencyId.ToString() + ".json", niceJson);
+            System.IO.File.WriteAllText(path + "data//" + agencyId.ToString() + ".json", niceJson);
         }
         
 
