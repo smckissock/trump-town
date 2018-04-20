@@ -6,6 +6,26 @@ queue()
 
 function setup(error, agency, agencyList) {
     drawSankey(agency);
+    drawBars(agencyList);
+}
+
+function drawBars(agencyList) {
+
+    const margin = {
+        top: 20, right: 30, bottom: 6, left: 1
+    };
+
+    const totalWidth = 200;
+    const totalHeight = 200; 
+
+    const width = totalWidth - margin.left - margin.right;
+    const height = totalHeight - margin.top - margin.bottom;
+    
+    const svg = d3.select("#bars")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 }
 
 function drawSankey(data) {
@@ -82,7 +102,6 @@ function drawSankey(data) {
 
     node.append("text")
         .attr("x", 3 + sankey.nodeWidth())
-        //.attr("y", function (d) { return (d.dy / 2) - 2; })
         .attr("y", function (d) { return (d.dy / 2) + 4; })
         .attr("text-anchor", "start")
         .attr("fill", "#404040")

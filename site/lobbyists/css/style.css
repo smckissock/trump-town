@@ -1,0 +1,86 @@
+html {
+    min-width: 1040px;
+}
+
+body {
+    background: #fcfcfa;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 1em auto 2em 1em;
+    position: relative;
+    width: 1100px;
+}
+
+
+a {
+    color: steelblue;
+}
+
+svg {
+    font: 500 12px "arial", sans-serif;
+    fill: #023858;
+}
+
+#chart {
+    height: 700px;
+}
+
+.title {
+    font-weight: bolder;
+    font-size: 20px;
+    color: #000;
+    font-family: "PT Sans", sans-serif;
+}
+
+.columnHead {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+}
+
+
+.node rect {
+    cursor: move;
+    fill-opacity: .75;
+    shape-rendering: crispEdges;
+}
+
+.node text {
+    pointer-events: none;
+    text-shadow: 0 1px 0 #fff;
+}
+
+.link {
+    fill: none;
+    stroke: #969696;
+    stroke-opacity: .2;
+}
+
+.link:hover {
+    stroke-opacity: .5;
+}
+
+.totalBudget {
+    font-weight: bolder;
+    fill: #bd9e39;
+    color: #bd9e39;
+    left: 0px;
+    position: absolute;
+    width: 200px;
+}
+
+.instructionAndOperations {
+    font-weight: bold;
+    fill: #ad494a;
+    color: #ad494a;
+    left: 210px;
+    position: absolute;
+    width: 200px;
+}
+
+.uses {
+    font-weight: bold;
+    fill: #637939;
+    color: #637939;
+    left: 475px;
+    position: absolute;
+    width: 200px;
+}
