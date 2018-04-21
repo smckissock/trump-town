@@ -1,12 +1,13 @@
-﻿
+﻿"use strict"
+
+
 queue()
-    .defer(d3.json, 'data/10.json')
     .defer(d3.json, 'data/agencies.json')
     .await(setup);
 
-function setup(error, agency, agencyList) {
+function setup(error, agencyList) {
     drawBars(agencyList);
-    drawSankey(agency);
+    resetSankey(agencyList[0]);
 }
 
 function drawBars(agencyList) {
@@ -16,70 +17,59 @@ function drawBars(agencyList) {
     };
 
     const totalWidth = 200;
-    const totalHeight = 800; 
+    const totalHeight = 850; 
 
     const width = totalWidth - margin.left - margin.right;
     const height = totalHeight - margin.top - margin.bottom;
 
-    const barHeight = 22;
+    const barHeight = 18;
     
     const svg = d3.select("#bars")
         .append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-    //addCommas = d3.format(",d");
-
-    //d3.select("span").text(year);
-
-    // Sort descending on selected year
+    
     agencyList.sort(function (a, b) {
         return b.lobbyists - a.lobbyists;
     });
-
-    //d3.select("svg").remove();
-    //var svg =
-    //    d3.select("body")
-    //        .append("svg")
-    //        .attr("width", 1000)
-    //        .attr("height", 800);
 
     svg.selectAll("rect")
         .data(agencyList)
         .enter()
         .append("rect")
         .attr("x", 0)
-        .attr("width", d => d.lobbyists * 4)
+        .attr("width", d => d.lobbyists * 6)
         .attr("y", (d, i) => i * barHeight - 1)
         .attr("height", barHeight - 4)
-        .style("fill", "lightgreen")
-        .on('click', function (d) {
-            resetSankey(d.id);
-        });
+        .style("fill", "lightblue")
+        .attr("cursor", "pointer")
+        .on('click', d => resetSankey(d));
 
     svg.selectAll("text")
         .data(agencyList)
         .enter()
         .append("text")
         .text(d => d.agency + " " + d.lobbyists)
-        .attr('x', 6)
-        .attr('y', (d, i) => (i * barHeight) - 10)
+        .attr('x', 4)
+        .attr('y', (d, i) => (i * barHeight) - 8)
         .attr('font-family', 'sans-serif')
         .attr('font-size', '10px')
-        .on('click', function (d) {
-            resetSankey(d.id);
-        });
+        .attr("cursor", "pointer")
+        .on('click', d => resetSankey(d));
+        //.on('mouseover', d => this.attr('font-size', '14px'))
+        //.on('mouseout', d => console.log("out"))
 }
 
-function resetSankey(id) {
-   d3.select("#chart")
+function resetSankey(agency) {
+    d3.select("#agencyName")
+        .text(agency.agency);
+
+    d3.select("#chart")
         .select("svg")
         .remove();
 
-    d3.json("data/" + id + ".json", function (err, data) {
-        drawSankey(data);
-    });
+    d3.json("data/" + agency.id + ".json", (err, data) => drawSankey(data));
 }
 
 function drawSankey(data) {
@@ -97,12 +87,12 @@ function drawSankey(data) {
     const width = totalWidth - margin.left - margin.right;
     const height = totalHeight - margin.top - margin.bottom;
 
-    var colors = ['#1f77b4', '#bd9e39', '#ad494a', '#637939'];
+    const colors = ['#1f77b4', '#bd9e39', '#ad494a', '#637939'];
 
     const formatNumber = d3.format(",.0f");
     const format = d => formatNumber(d);
 
-    color = d3.scale.ordinal()
+    const color = d3.scale.ordinal()
         .domain(['Client', 'Lobbying Firm', 'Lobbyist'])
         .range(colors);
 
