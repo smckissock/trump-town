@@ -78,12 +78,12 @@
       "amount": 1
     },
     {
-      "name": "TIAA-CREF",
+      "name": "Tiaa-cref",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "PATTON BOGGS LLP",
+      "name": "Patton Boggs LLP",
       "category": "Firm",
       "amount": 2
     },
@@ -118,7 +118,7 @@
       "amount": 1
     },
     {
-      "name": "BARNES & THORNBURG LLP",
+      "name": "Barnes & Thornburg LLP",
       "category": "Firm",
       "amount": 25
     },
@@ -228,7 +228,7 @@
       "amount": 1
     },
     {
-      "name": "CITY OF BEECH GROVE",
+      "name": "City Of Beech Grove",
       "category": "Client",
       "amount": 1
     },
@@ -273,7 +273,7 @@
       "amount": 27
     },
     {
-      "name": "ORACLE CORPORATION",
+      "name": "Oracle Corporation",
       "category": "Client",
       "amount": 1
     },
@@ -303,7 +303,7 @@
       "amount": 1
     },
     {
-      "name": "DICKSTEIN SHAPIRO LLP",
+      "name": "Dickstein Shapiro LLP",
       "category": "Firm",
       "amount": 12
     },
@@ -333,7 +333,7 @@
       "amount": 1
     },
     {
-      "name": "PGA TOUR",
+      "name": "Pga Tour",
       "category": "Client",
       "amount": 1
     },
@@ -348,7 +348,7 @@
       "amount": 1
     },
     {
-      "name": "CAPE WIND ASSOCIATES, LLC",
+      "name": "Cape Wind Associates, LLC",
       "category": "Client",
       "amount": 1
     },
@@ -363,7 +363,7 @@
       "amount": 1
     },
     {
-      "name": "RITE AID CORPORATION",
+      "name": "Rite Aid Corporation",
       "category": "Client",
       "amount": 1
     },
@@ -373,7 +373,7 @@
       "amount": 1
     },
     {
-      "name": "LORILLARD TOBACCO COMPANY",
+      "name": "Lorillard Tobacco Company",
       "category": "Client",
       "amount": 1
     },

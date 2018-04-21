@@ -26,7 +26,7 @@ namespace Importer {
         public int amount; 
 
         public NodeJson(string name, string category, string amount) {
-            this.name = name;
+            this.name = Util.UnCapitalize(name);
             this.category = category;
             this.amount = Convert.ToInt32(amount);
         }

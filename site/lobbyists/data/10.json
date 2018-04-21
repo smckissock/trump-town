@@ -3,12 +3,12 @@
   "agency": "Health and Human Services",
   "nodes": [
     {
-      "name": "ENDO PHARMACEUTICALS",
+      "name": "Endo Pharmaceuticals",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "ALSTON & BIRD LLP",
+      "name": "Alston & Bird LLP",
       "category": "Firm",
       "amount": 1
     },
@@ -18,12 +18,12 @@
       "amount": 1
     },
     {
-      "name": "BETHANY CHRISTIAN SERVICES",
+      "name": "Bethany Christian Services",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "BETHANY CHRISTIAN SERVICES",
+      "name": "Bethany Christian Services",
       "category": "Firm",
       "amount": 1
     },
@@ -53,7 +53,7 @@
       "amount": 1
     },
     {
-      "name": "AKIN GUMP STRAUSS HAUER & FELD",
+      "name": "Akin Gump Strauss Hauer & Feld",
       "category": "Firm",
       "amount": 11
     },
@@ -113,12 +113,12 @@
       "amount": 1
     },
     {
-      "name": "GENOMIC HEALTH, INC.",
+      "name": "Genomic Health, Inc.",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "MCDERMOTT WILL & EMERY LLP",
+      "name": "Mcdermott Will & Emery LLP",
       "category": "Firm",
       "amount": 2
     },
@@ -128,7 +128,7 @@
       "amount": 2
     },
     {
-      "name": "INTERMOUNTAIN HEALTHCARE",
+      "name": "Intermountain Healthcare",
       "category": "Client",
       "amount": 1
     },
@@ -233,7 +233,7 @@
       "amount": 1
     },
     {
-      "name": "NATIONAL ABSTINENCE EDUCATION ASSOCIATION",
+      "name": "National Abstinence Education Association",
       "category": "Client",
       "amount": 1
     },
@@ -348,12 +348,12 @@
       "amount": 1
     },
     {
-      "name": "AMERICA'S HEALTH INSURANCE PLANS, INC. (AHIP)",
+      "name": "America's Health Insurance Plans, Inc. (ahip)",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "AMERICA'S HEALTH INSURANCE PLANS, INC. (AHIP)",
+      "name": "America's Health Insurance Plans, Inc. (ahip)",
       "category": "Firm",
       "amount": 1
     },
@@ -368,7 +368,7 @@
       "amount": 2
     },
     {
-      "name": "BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ",
+      "name": "Baker Donelson Bearman Caldwell & Berkowitz",
       "category": "Firm",
       "amount": 16
     },
@@ -393,17 +393,17 @@
       "amount": 2
     },
     {
-      "name": "SHARED HEALTH",
+      "name": "Shared Health",
       "category": "Client",
       "amount": 2
     },
     {
-      "name": "THE WEST CLINIC",
+      "name": "The West Clinic",
       "category": "Client",
       "amount": 2
     },
     {
-      "name": "4SC",
+      "name": "4sc",
       "category": "Client",
       "amount": 2
     },
@@ -498,7 +498,7 @@
       "amount": 1
     },
     {
-      "name": "VERIZON COMMUNICATIONS",
+      "name": "Verizon Communications",
       "category": "Client",
       "amount": 1
     },
@@ -513,7 +513,7 @@
       "amount": 20
     },
     {
-      "name": "VERIZON WIRELESS",
+      "name": "Verizon Wireless",
       "category": "Client",
       "amount": 1
     },
@@ -528,7 +528,7 @@
       "amount": 1
     },
     {
-      "name": "POINT BLANK BODY ARMOR",
+      "name": "Point Blank Body Armor",
       "category": "Client",
       "amount": 1
     },
@@ -553,37 +553,37 @@
       "amount": 1
     },
     {
-      "name": "ROBERT SPENCER",
+      "name": "Robert Spencer",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "THE SERVICEMASTER COMPANY",
+      "name": "The Servicemaster Company",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "CARGO AIRLINE ASSN",
+      "name": "Cargo Airline Assn",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "MEMEX, INC",
+      "name": "Memex, Inc",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "CUSTOM RAIL EMPLOYER WELFARE TRUST FUND",
+      "name": "Custom Rail Employer Welfare Trust Fund",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "AECOM",
+      "name": "Aecom",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "AMERICAN AIRLINES",
+      "name": "American Airlines",
       "category": "Client",
       "amount": 1
     },
@@ -593,17 +593,17 @@
       "amount": 1
     },
     {
-      "name": "NATIONAL COUNCIL OF JUVENILE & FAMILY COURT JUDGES",
+      "name": "National Council Of Juvenile & Family Court Judges",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "HILTON",
+      "name": "Hilton",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "MARRIOTT INTERNATIONAL, INC",
+      "name": "Marriott International, Inc",
       "category": "Client",
       "amount": 1
     },
@@ -623,12 +623,12 @@
       "amount": 4
     },
     {
-      "name": "AETNA",
+      "name": "Aetna",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "JEFFERSON GOVERNMENT RELATIONS, L.L.C.",
+      "name": "Jefferson Government Relations, L.l.c.",
       "category": "Firm",
       "amount": 2
     },
@@ -648,7 +648,7 @@
       "amount": 1
     },
     {
-      "name": "SIDLEY AUSTIN LLP",
+      "name": "Sidley Austin LLP",
       "category": "Firm",
       "amount": 1
     },
@@ -663,7 +663,7 @@
       "amount": 1
     },
     {
-      "name": "GREENBERG TRAURIG, LLP",
+      "name": "Greenberg Traurig, LLP",
       "category": "Firm",
       "amount": 1
     },

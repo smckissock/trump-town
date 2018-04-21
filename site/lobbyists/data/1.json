@@ -3,12 +3,12 @@
   "agency": "National Endowment for the Humanities",
   "nodes": [
     {
-      "name": "COLORADO RIVER ENERGY DISTRIBUTORS ASSOCIATION",
+      "name": "Colorado River Energy Distributors Association",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "MORGAN MEGUIRE, LLC",
+      "name": "Morgan Meguire, LLC",
       "category": "Firm",
       "amount": 15
     },
@@ -18,32 +18,32 @@
       "amount": 15
     },
     {
-      "name": "CITY UTILITIES OF SPRINGFIELD",
+      "name": "City Utilities Of Springfield",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "ENERGY NORTHWEST",
+      "name": "Energy Northwest",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "MADISON GAS AND ELECTRIC",
+      "name": "Madison Gas And Electric",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "NORTHEAST PUBLIC POWER ASSOCIATION",
+      "name": "Northeast Public Power Association",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "NORTHWEST PUBLIC POWER ASSOCIATION",
+      "name": "Northwest Public Power Association",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "SOUTHERN CALIFORNIA PUBLIC POWER AUTHORITY",
+      "name": "Southern California Public Power Authority",
       "category": "Client",
       "amount": 1
     },
@@ -53,22 +53,22 @@
       "amount": 1
     },
     {
-      "name": "WASHINGTON PUBLIC UTILITY DISTRICTS ASSOCIATION",
+      "name": "Washington Public Utility Districts Association",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "SACRAMENTO MUNICIPAL UTILITY DISTRICT",
+      "name": "Sacramento Municipal Utility District",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "ELECTRICAL DISTRICT NO. 8",
+      "name": "Electrical District No. 8",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "TURLOCK IRRIGATION DISTRICT",
+      "name": "Turlock Irrigation District",
       "category": "Client",
       "amount": 1
     },
@@ -83,7 +83,7 @@
       "amount": 1
     },
     {
-      "name": "TRANSMISSION ACCESS POLICY STUDY GROUP",
+      "name": "Transmission Access Policy Study Group",
       "category": "Client",
       "amount": 1
     }

@@ -35,5 +35,37 @@ namespace Importer {
             }
             return reader;
         }
+
+        public static string UnCapitalize(string text) {
+            if (!IsAllUpper(text))
+                return text;
+
+            var allCaps = new string[] { "LLC", "LLP" };
+
+            var words = text.Split(' ');
+            var newWords = new List<string>();
+            foreach (string word in words) {
+                if (allCaps.Contains(word))
+                    newWords.Add(word);
+                else
+                    newWords.Add(UpperCaseFirstChar(word.ToLower())); 
+            }
+            return String.Join(" ", newWords); 
+        }
+
+        private static bool IsAllUpper(string text) {
+            for (int i = 0; i < text.Length; i++) {
+                if (Char.IsLetter(text[i]) && !Char.IsUpper(text[i]))
+                    return false;
+            }
+            return true;
+        }
+
+        private static string UpperCaseFirstChar(string str) {
+            if (string.IsNullOrEmpty(str)) {
+                return string.Empty;
+            }
+            return char.ToUpper(str[0]) + str.Substring(1);
+        }
     }
 }

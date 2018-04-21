@@ -3,12 +3,12 @@
   "agency": "Federal Energy Regulatory Commission",
   "nodes": [
     {
-      "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
+      "name": "National Rural Electric Cooperative Association (nreca)",
       "category": "Client",
       "amount": 1
     },
     {
-      "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
+      "name": "National Rural Electric Cooperative Association (nreca)",
       "category": "Firm",
       "amount": 1
     },
