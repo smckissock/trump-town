@@ -5,8 +5,8 @@ queue()
     .await(setup);
 
 function setup(error, agency, agencyList) {
-    drawSankey(agency);
     drawBars(agencyList);
+    drawSankey(agency);
 }
 
 function drawBars(agencyList) {
@@ -16,16 +16,70 @@ function drawBars(agencyList) {
     };
 
     const totalWidth = 200;
-    const totalHeight = 200; 
+    const totalHeight = 800; 
 
     const width = totalWidth - margin.left - margin.right;
     const height = totalHeight - margin.top - margin.bottom;
+
+    const barHeight = 22;
     
     const svg = d3.select("#bars")
         .append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    //addCommas = d3.format(",d");
+
+    //d3.select("span").text(year);
+
+    // Sort descending on selected year
+    agencyList.sort(function (a, b) {
+        return b.lobbyists - a.lobbyists;
+    });
+
+    //d3.select("svg").remove();
+    //var svg =
+    //    d3.select("body")
+    //        .append("svg")
+    //        .attr("width", 1000)
+    //        .attr("height", 800);
+
+    svg.selectAll("rect")
+        .data(agencyList)
+        .enter()
+        .append("rect")
+        .attr("x", 0)
+        .attr("width", d => d.lobbyists * 4)
+        .attr("y", (d, i) => i * barHeight - 1)
+        .attr("height", barHeight - 4)
+        .style("fill", "lightgreen")
+        .on('click', function (d) {
+            resetSankey(d.id);
+        });
+
+    svg.selectAll("text")
+        .data(agencyList)
+        .enter()
+        .append("text")
+        .text(d => d.agency + " " + d.lobbyists)
+        .attr('x', 6)
+        .attr('y', (d, i) => (i * barHeight) - 10)
+        .attr('font-family', 'sans-serif')
+        .attr('font-size', '10px')
+        .on('click', function (d) {
+            resetSankey(d.id);
+        });
+}
+
+function resetSankey(id) {
+   d3.select("#chart")
+        .select("svg")
+        .remove();
+
+    d3.json("data/" + id + ".json", function (err, data) {
+        drawSankey(data);
+    });
 }
 
 function drawSankey(data) {
@@ -81,28 +135,28 @@ function drawSankey(data) {
         .sort(function (a, b) { return b.dy - a.dy; });
 
     link.append("title")
-        .text(function (d) { return d.source.name + " → " + d.target.name; });
+        .text(d => d.source.name + " → " + d.target.name);
 
     var node = svg.append("g").selectAll(".node")
         .data(data.nodes)
         .enter().append("g")
         .attr("class", "node")
-        .attr("transform", function (d) { return "translate(" + d.x + "," + d.y + ")"; })
+        .attr("transform", d => "translate(" + d.x + "," + d.y + ")")
         .call(d3.behavior.drag()
             .origin(function (d) { return d; })
             .on("dragstart", function () { this.parentNode.appendChild(this); })
             .on("drag", dragmove));
 
     node.append("rect")
-        .attr("height", function (d) { return d.dy; })
+        .attr("height", d => d.dy)
         .attr("width", sankey.nodeWidth())
-        .style("fill", function (d) { return color(d.category); })
+        .style("fill", d => color(d.category))
         .append("title")
-        .text(function (d) { return d.name; });
+        .text(d => d.name);
 
     node.append("text")
         .attr("x", 3 + sankey.nodeWidth())
-        .attr("y", function (d) { return (d.dy / 2) + 4; })
+        .attr("y", d => (d.dy / 2) + 4)
         .attr("text-anchor", "start")
         .attr("fill", "#404040")
         .attr("font-size", "10px")
