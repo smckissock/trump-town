@@ -2,7 +2,7 @@
 
 
 queue()
-    .defer(d3.json, 'data/agencies.json')
+    .defer(d3.json, "data/agencies.json")
     .await(setup);
 
 function setup(error, agencyList) {
@@ -30,35 +30,37 @@ function drawBars(agencyList) {
         .attr("height", height + margin.top + margin.bottom)
         .append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
     
-    agencyList.sort(function (a, b) {
-        return b.lobbyists - a.lobbyists;
-    });
-
+    agencyList.sort((a, b) => b.lobbyists - a.lobbyists);
+    
     svg.selectAll("rect")
         .data(agencyList)
         .enter()
         .append("rect")
         .attr("x", 0)
         .attr("width", d => d.lobbyists * 6)
-        .attr("y", (d, i) => i * barHeight - 1)
+        .attr("y", (d, i) => (i * barHeight) - barHeight - 1)
         .attr("height", barHeight - 4)
         .style("fill", "lightblue")
         .attr("cursor", "pointer")
-        .on('click', d => resetSankey(d));
+        .on("click", d => resetSankey(d));
 
     svg.selectAll("text")
         .data(agencyList)
         .enter()
         .append("text")
         .text(d => d.agency + " " + d.lobbyists)
-        .attr('x', 4)
-        .attr('y', (d, i) => (i * barHeight) - 8)
-        .attr('font-family', 'sans-serif')
-        .attr('font-size', '10px')
+        .attr("x", 4)
+        .attr("y", (d, i) => (i * barHeight) - 8)
+        .attr("font-family", "sans-serif")
+        .attr("font-size", "10px")
         .attr("cursor", "pointer")
-        .on('click', d => resetSankey(d));
-        //.on('mouseover', d => this.attr('font-size', '14px'))
-        //.on('mouseout', d => console.log("out"))
+        .on("click", d => resetSankey(d))
+        .on("mouseover", function (d) {
+            d3.select(this).attr("font-weight", "bold");
+        })
+        .on("mouseout", function (d) {
+            d3.select(this).attr("font-weight", "normal");
+        });
 }
 
 function resetSankey(agency) {

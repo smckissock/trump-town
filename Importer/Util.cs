@@ -19,7 +19,11 @@ namespace Importer {
 
         public static SqlDataReader Query(string query) {
 
-            string connString = "Server=PC\\SQLExpress;Database=TrumpTown;Trusted_Connection=True;";
+            // Desktop
+            string connString = "Server=SCOTT-PC\\SQLExpress;Database=TrumpTown;Trusted_Connection=True;";
+
+            // Laptop
+            //string connString = "Server=PC\\SQLExpress;Database=TrumpTown;Trusted_Connection=True;";
 
             SqlDataReader reader = null;
             using (SqlCommand command = new SqlConnection(connString).CreateCommand()) {
