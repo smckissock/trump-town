@@ -2,7 +2,7 @@
 
 
 queue()
-    .defer(d3.json, "data/agencies.json")
+    .defer(d3.json, "site/lobbyists/data/agencies.json")
     .await(setup);
 
 function setup(error, agencyList) {
@@ -71,7 +71,7 @@ function resetSankey(agency) {
         .select("svg")
         .remove();
 
-    d3.json("data/" + agency.id + ".json", (err, data) => drawSankey(data));
+    d3.json("site/lobbyists/data/" + agency.id + ".json", (err, data) => drawSankey(data));
 }
 
 function drawSankey(data) {
@@ -174,4 +174,4 @@ function drawSankey(data) {
         sankey.relayout();
         link.attr("d", path);
     }
-}
+}   
