@@ -60,29 +60,17 @@ a {
     stroke-opacity: .5;
 }
 
-.totalBudget {
-    font-weight: bolder;
-    fill: #bd9e39;
+.client {
+    font-weight: bold;
     color: #bd9e39;
-    left: 0px;
-    position: absolute;
-    width: 200px;
 }
 
-.instructionAndOperations {
+.lobbyingFirm {
     font-weight: bold;
-    fill: #ad494a;
-    color: #ad494a;
-    left: 210px;
-    position: absolute;
-    width: 200px;
-}
-
-.uses {
-    font-weight: bold;
-    fill: #637939;
     color: #637939;
-    left: 475px;
-    position: absolute;
-    width: 200px;
+}
+
+.staffer {
+    font-weight: bold;
+    color: #ad494a;
 }

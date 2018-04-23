@@ -37,7 +37,7 @@ function drawBars(agencyList) {
         .enter()
         .append("rect")
         .attr("x", 0)
-        .attr("width", d => d.lobbyists * 6)
+        .attr("width", d => d.lobbyists * 10)
         .attr("y", (d, i) => (i * barHeight) - barHeight - 1)
         .attr("height", barHeight - 4)
         .style("fill", "lightblue")
@@ -83,20 +83,23 @@ function drawSankey(data) {
 
     const nodeHeight = 30;
 
-    const totalWidth = 700; // 700
-    const totalHeight = nodeHeight * data.nodeCount;  // 600
+    const totalWidth = 750; 
+    const totalHeight = nodeHeight * data.nodeCount;  
 
     const width = totalWidth - margin.left - margin.right;
     const height = totalHeight - margin.top - margin.bottom;
 
-    const colors = ['#1f77b4', '#bd9e39', '#ad494a', '#637939'];
+    const colors = ['#bd9e39', '#637939', '#ad494a'];
+
+    const color = d3.scale.ordinal()
+        .domain(['Client', 'Firm', 'Staffer'])
+        .range(colors);
+
+    // #bd9e39 gold
+
 
     const formatNumber = d3.format(",.0f");
     const format = d => formatNumber(d);
-
-    const color = d3.scale.ordinal()
-        .domain(['Client', 'Lobbying Firm', 'Lobbyist'])
-        .range(colors);
 
     const svg = d3.select("#chart")
         .append("svg")
