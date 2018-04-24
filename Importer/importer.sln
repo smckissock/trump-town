@@ -6,14 +6,11 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Importer", "Importer.csproj", "{4D3F9E86-13DF-4C04-82FA-E28557343F05}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "site", "site", "{4C3B9378-2B4A-44F8-AC9D-48D5E99137C1}"
-	ProjectSection(SolutionItems) = preProject
-		..\site\lobbyists\index.html = ..\site\lobbyists\index.html
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lobbyists", "lobbyists", "{19F43D46-3204-4C9E-952B-E93A03B64AB8}"
 	ProjectSection(SolutionItems) = preProject
 		..\site\lobbyists\budget.json = ..\site\lobbyists\budget.json
-		..\site\lobbyists\index.html = ..\site\lobbyists\index.html
+		..\index.html = ..\index.html
 		..\site\lobbyists\css\layout.css = ..\site\lobbyists\css\layout.css
 		..\site\lobbyists\js\lobbyists.js = ..\site\lobbyists\js\lobbyists.js
 		..\site\lobbyists\lobbyists.json = ..\site\lobbyists\lobbyists.json
@@ -21,9 +18,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lobbyists", "lobbyists", "{
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{751EDB88-619D-4863-8BEA-52B34DBB2111}"
-	ProjectSection(SolutionItems) = preProject
-		..\site\lobbyists\index.html = ..\site\lobbyists\index.html
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

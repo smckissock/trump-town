@@ -10,6 +10,10 @@ function setup(error, agencyList) {
     resetSankey(agencyList[0]);
 }
 
+var tipNodes = d3.tip()
+    .attr('class', 'd3-tip d3-tip-nodes')
+    .offset([-10, 0]);
+
 function drawBars(agencyList) {
 
     const margin = {
@@ -31,6 +35,7 @@ function drawBars(agencyList) {
         .append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
     
     agencyList.sort((a, b) => b.lobbyists - a.lobbyists);
+      
     
     svg.selectAll("rect")
         .data(agencyList)
@@ -55,12 +60,8 @@ function drawBars(agencyList) {
         .attr("font-size", "10px")
         .attr("cursor", "pointer")
         .on("click", d => resetSankey(d))
-        .on("mouseover", function (d) {
-            d3.select(this).attr("font-weight", "bold");
-        })
-        .on("mouseout", function (d) {
-            d3.select(this).attr("font-weight", "normal");
-        });
+        .on("mouseover", d => d3.select(this).attr("font-weight", "bold"))
+        .on("mouseout", d => d3.select(this).attr("font-weight", "normal"));
 }
 
 function resetSankey(agency) {
@@ -114,6 +115,11 @@ function drawSankey(data) {
 
     const path = sankey.link();
 
+
+    var popup = d3.select("body").append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+
     sankey
         .nodes(data.nodes)
         .links(data.links)
@@ -137,6 +143,8 @@ function drawSankey(data) {
         .enter().append("g")
         .attr("class", "node")
         .attr("transform", d => "translate(" + d.x + "," + d.y + ")")
+        .on('mouseover', d => showNodePopup(d))
+        .on('mouseout', () => hideNodePopup())
         .call(d3.behavior.drag()
             .origin(function (d) { return d; })
             .on("dragstart", function () { this.parentNode.appendChild(this); })
@@ -176,5 +184,20 @@ function drawSankey(data) {
             ) + "," + (d.y = Math.max(0, Math.min(height - d.dy, d3.event.y))) + ")");
         sankey.relayout();
         link.attr("d", path);
+    }
+
+    function showNodePopup(d) {
+        popup.transition()
+            .duration(100)
+            .style("opacity", 1.0);
+        popup.html(d.name)
+            .style("left", (d3.event.pageX) + "px")
+            .style("top", (d3.event.pageY - 28) + "px");	
+    }
+
+    function hideNodePopup() {
+        popup.transition()
+            .duration(200)
+            .style("opacity", 0);
     }
 }   
