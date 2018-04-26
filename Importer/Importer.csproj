@@ -48,6 +48,7 @@
     <Compile Include="Importer.cs" />
     <Compile Include="Lobbyists.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Staffers.cs" />
     <Compile Include="Util.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -19,7 +19,7 @@ namespace Importer {
             this.lobbyists = lobbyists;
         }
     }
-
+    
     public class NodeJson {
         public string name;
         public string category;
@@ -155,8 +155,7 @@ namespace Importer {
 
                 Console.WriteLine("Nodes: " + nodes.Count().ToString() + "  Links: " + links.Count().ToString() + " " + agency);
             }
-            MakeAgencyLobbyistJson(path, agencies);
-            Console.ReadLine();
+            MakeAgencyLobbyistJson(path, agencies);            
         }
 
         private static int LobbyistCount(Dictionary<string, Node> nodes) {
