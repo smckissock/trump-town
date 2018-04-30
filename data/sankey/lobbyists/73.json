@@ -1,0 +1,83 @@
+{
+  "nodeCount": 3,
+  "agency": "Federal Communications Commission",
+  "nodes": [
+    {
+      "name": "H&R Block, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "H&R Block, Inc.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Brian C. Hart",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Satellite Industry Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Satellite Industry Association",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Carolyn Roddy",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Motion Picture Association of America",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Akin Gump Strauss Hauer & Feld",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Kathleen Abernathy",
+      "category": "Staffer",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 1
+    }
+  ]
+}

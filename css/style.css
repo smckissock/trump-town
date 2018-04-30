@@ -1,0 +1,89 @@
+html {
+    min-width: 1040px;
+}
+
+body {
+    background: #fcfcfa;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 1em auto 2em 1em;
+    position: relative;
+    width: 1100px;
+}
+
+
+a {
+    color: steelblue;
+}
+
+
+#chart {
+    height: 700px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 22px;
+    color: #000;
+    font-family: "PT Sans", sans-serif;
+}
+
+.agency {
+    font-weight: bold;
+    font-size: 18px;
+    color: #000;
+    font-family: "PT Sans", sans-serif;
+}
+.columnHead {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+}
+
+
+.node rect {
+    cursor: move;
+    fill-opacity: .75;
+    shape-rendering: crispEdges;
+}
+
+.node text {
+    pointer-events: none;
+    text-shadow: 0 1px 0 #fff;
+}
+
+.link {
+    fill: none;
+    stroke: #969696;
+    stroke-opacity: .2;
+}
+
+.link:hover {
+    stroke-opacity: .5;
+}
+
+.client {
+    font-weight: bold;
+    color: #bd9e39;
+}
+
+.lobbyingFirm {
+    font-weight: bold;
+    color: #637939;
+}
+
+.staffer {
+    font-weight: bold;
+    color: #ad494a;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    height: 28px;
+    padding: 2px;
+    font: 12px sans-serif;
+    /*background: lightsteelblue;*/
+    border: 1px solid black;
+    /*border-radius: 8px;*/
+    pointer-events: none;
+}

@@ -1,0 +1,78 @@
+{
+  "nodeCount": 3,
+  "agency": "Commodity Futures Trading Commission",
+  "nodes": [
+    {
+      "name": "Financial Industry Regulatory Authority",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Financial Industry Regulatory Authority",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Cory Claussen",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Futures Industry Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Stump Strategic LLC",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Dawn DeBerry Stump",
+      "category": "Staffer",
+      "amount": 2
+    },
+    {
+      "name": "NYSE Group, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "NYSE Group, Inc.",
+      "category": "Firm",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 1
+    }
+  ]
+}

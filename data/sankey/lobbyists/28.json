@@ -1,0 +1,263 @@
+{
+  "nodeCount": 16,
+  "agency": "U.S. Trade Representative",
+  "nodes": [
+    {
+      "name": "International Hearing Society",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Brownstein Hyatt Farber Schreck, LLP",
+      "category": "Firm",
+      "amount": 3
+    },
+    {
+      "name": "Christina Cobaugh",
+      "category": "Staffer",
+      "amount": 3
+    },
+    {
+      "name": "Property Casualty Insurers Association of America",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "SoundExchange",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "United States Steel Corporation",
+      "category": "Client",
+      "amount": 3
+    },
+    {
+      "name": "Skadden, Arps, Slate, Meagher & Flom, LLP",
+      "category": "Firm",
+      "amount": 3
+    },
+    {
+      "name": "Jeffrey Gerrish",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Robert Emmet Lighthizer",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Pitney Bowes Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Pitney Bowes Inc.",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Dennis Shea",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Stephen Paul Vaughn",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Gregory Martin Walters",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Oldcastle Materials, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Corley Consulting, LLC",
+      "category": "Firm",
+      "amount": 10
+    },
+    {
+      "name": "Stewart Barber Young",
+      "category": "Staffer",
+      "amount": 10
+    },
+    {
+      "name": "Kelly Hart and Hallman LLP",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The Task Force on American Innovation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Compete America",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Intel Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Creative Solutions in Health Care",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "The City of Fort Worth",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Netflix, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Tarrant County Government",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "JPS Health Network",
+      "category": "Client",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 3
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 3
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 12,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "value": 1
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 1
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "value": 10
+    },
+    {
+      "source": 19,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 20,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 21,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 22,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 23,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 24,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 25,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 26,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 27,
+      "target": 17,
+      "value": 1
+    }
+  ]
+}

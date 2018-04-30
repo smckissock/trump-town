@@ -1,0 +1,998 @@
+{
+  "nodeCount": 87,
+  "agency": "Justice",
+  "nodes": [
+    {
+      "name": "Google, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Wilmer Cutler Pickering Hale And Dorr LLP",
+      "category": "Firm",
+      "amount": 3
+    },
+    {
+      "name": "Rachel L. Brand",
+      "category": "Staffer",
+      "amount": 3
+    },
+    {
+      "name": "T-Mobile USA, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Pharmaceutical Research and Manufacturers of America",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Association Of Art Museum Directors",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Association Of Art Museum Directors",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Andrew Finch",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Women Thrive Worldwide (formerly Women's Edge Coalition)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Women Thrive Worldwide (formerly Women's Edge Coalition)",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Lindsey A. Freeman",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "United Technologies Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "United Technologies Corporation",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "David Lasseter",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "The Pew Charitable Trusts",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Whitaker Strategy Group",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Matthew G. Whitaker",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Independent Directors of the Board of Directors of Wells Fargo & Company",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Brownstein Hyatt Farber Schreck, LLP",
+      "category": "Firm",
+      "amount": 92
+    },
+    {
+      "name": "Makan Delrahim",
+      "category": "Staffer",
+      "amount": 162
+    },
+    {
+      "name": "LaLiga",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "The MENTOR Network",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Anthem, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Flexjet, LLC",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Pfizer, Inc",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Neiman Marcus Group",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Brentwood School",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Questcor Pharmaceuticals",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "T-Mobile",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Access Industries",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Coalition for Mobile Wireless Competition",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "WMG Acquisition Corp.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "General Nutrition Centers, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Simon Property Group, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Caesars Enterprise Services, LLC (fraCaesarsEntertainmentOperatingCompany,Inc.)",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Baxter HealthCare Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Masimo Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "City of Calabasas, California",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Ultimate Fighting Championship (UFC)",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Electronic Payments Coalition (EPC)",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Skadden, Arps, Slate, Meagher & Flom LLP",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Genworth Financial, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "West Valley Water District",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Uhlmann Financial Group",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Toshiba Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Roger Reisher",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Intelsat Global Service Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "AMC Entertainment, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Medical Device Manufacturers Association",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Delta Petroleum Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Hexion Specialty Chemicals, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "AT&T Services Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Brownstein Hyatt Farber Schreck, P.c.",
+      "category": "Firm",
+      "amount": 22
+    },
+    {
+      "name": "Ares Capital Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Johnson & Johnson Shared Services, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Newspaper Association of America",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "The Private Equity Council",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Caremark Rx, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Sanofi-Aventis US",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Google",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Toshiba Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Brownstein Hyatt & Farber, P.C.",
+      "category": "Firm",
+      "amount": 36
+    },
+    {
+      "name": "Apollo Investment Management, LP",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Metabolix",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Biovail Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Wine and Spirits Wholesalers of America, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "American Innovators Alliance",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Microsoft Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Apple Computers, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Intel Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "rfXCel Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Earthlink, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "World Poker Tour Enterprises, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Alliance for Investment Transparency",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Fairfax Financial Holdings Limited",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "American Innovators Alliance, II",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Inco-Check, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Veri-Tax.com",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "U.S. Airways",
+      "category": "Client",
+      "amount": 4
+    },
+    {
+      "name": "Ross, Dixon & Bell, LLP",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "QualComm Incorporated",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Dbt Defense",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Brownstein Hyatt & Farber, P.c.",
+      "category": "Firm",
+      "amount": 12
+    },
+    {
+      "name": "Centrix Financial, LLC",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "The Ashcroft Group, LLC",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Oracle Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Micron Technology, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Celanese Chemicals",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Cadiz, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Qualcomm Incorporated",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Vector Group, Ltd",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Ardent Health Services",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Comcast Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "JOHNSON & JOHNSON SERVICES, INC.(f.r.a. JOHNSON & JOHNSON SHARED SERVICES, INC.)",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "National Cable & Telecommunications Association",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Private Equity Growth Capital Council (formerly The Private Equity Council)",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Veri-tax.com",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Inco-check, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "World Poker Tour Enterprises, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Fairfax Financial Holdings Limited",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Sanofi-aventis Us",
+      "category": "Client",
+      "amount": 2
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 3
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 1
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 1
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "value": 92
+    },
+    {
+      "source": 20,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 21,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 22,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 23,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 24,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 25,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 26,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 27,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 28,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 29,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 30,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 31,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 32,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 33,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 34,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 35,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 36,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 37,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 38,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 39,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 40,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 41,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 42,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 43,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 44,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 45,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 46,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 47,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 48,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 49,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 50,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 51,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "value": 2
+    },
+    {
+      "source": 53,
+      "target": 19,
+      "value": 22
+    },
+    {
+      "source": 54,
+      "target": 53,
+      "value": 2
+    },
+    {
+      "source": 55,
+      "target": 53,
+      "value": 2
+    },
+    {
+      "source": 56,
+      "target": 53,
+      "value": 2
+    },
+    {
+      "source": 57,
+      "target": 53,
+      "value": 2
+    },
+    {
+      "source": 58,
+      "target": 53,
+      "value": 2
+    },
+    {
+      "source": 59,
+      "target": 53,
+      "value": 2
+    },
+    {
+      "source": 60,
+      "target": 53,
+      "value": 2
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 62,
+      "target": 19,
+      "value": 36
+    },
+    {
+      "source": 63,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 64,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 65,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 66,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 67,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 68,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 69,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 70,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 71,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 72,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 73,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 74,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 75,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 76,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 77,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 78,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 79,
+      "target": 53,
+      "value": 4
+    },
+    {
+      "source": 80,
+      "target": 53,
+      "value": 2
+    },
+    {
+      "source": 81,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 82,
+      "target": 83,
+      "value": 2
+    },
+    {
+      "source": 83,
+      "target": 19,
+      "value": 12
+    },
+    {
+      "source": 84,
+      "target": 83,
+      "value": 2
+    },
+    {
+      "source": 85,
+      "target": 83,
+      "value": 2
+    },
+    {
+      "source": 86,
+      "target": 83,
+      "value": 2
+    },
+    {
+      "source": 87,
+      "target": 83,
+      "value": 2
+    },
+    {
+      "source": 88,
+      "target": 83,
+      "value": 2
+    },
+    {
+      "source": 89,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 90,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 91,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 92,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 93,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 94,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 95,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 96,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 97,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 98,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 99,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 100,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 101,
+      "target": 18,
+      "value": 2
+    }
+  ]
+}

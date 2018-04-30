@@ -1,0 +1,33 @@
+{
+  "nodeCount": 1,
+  "agency": "U.S. International Trade Commission",
+  "nodes": [
+    {
+      "name": "Massachusetts Mutual Life Insurance Company",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Massachusetts Mutual Life Insurance Company",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Mary Elizabeth Jones",
+      "category": "Staffer",
+      "amount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1
+    }
+  ]
+}

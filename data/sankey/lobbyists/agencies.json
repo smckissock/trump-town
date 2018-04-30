@@ -1,0 +1,167 @@
+[
+  {
+    "agency": "National Endowment for the Humanities",
+    "id": "1",
+    "lobbyists": 1
+  },
+  {
+    "agency": "National Endowment for the Arts",
+    "id": "6",
+    "lobbyists": 1
+  },
+  {
+    "agency": "Office of the Director of National Intelligence",
+    "id": "9",
+    "lobbyists": 1
+  },
+  {
+    "agency": "Health and Human Services",
+    "id": "10",
+    "lobbyists": 21
+  },
+  {
+    "agency": "Consumer Product Safety Commission",
+    "id": "13",
+    "lobbyists": 2
+  },
+  {
+    "agency": "Veterans Affairs",
+    "id": "15",
+    "lobbyists": 2
+  },
+  {
+    "agency": "Defense",
+    "id": "27",
+    "lobbyists": 5
+  },
+  {
+    "agency": "U.S. Trade Representative",
+    "id": "28",
+    "lobbyists": 7
+  },
+  {
+    "agency": "Trade and Development",
+    "id": "29",
+    "lobbyists": 1
+  },
+  {
+    "agency": "Labor",
+    "id": "30",
+    "lobbyists": 10
+  },
+  {
+    "agency": "Treasury",
+    "id": "31",
+    "lobbyists": 4
+  },
+  {
+    "agency": "Agriculture",
+    "id": "32",
+    "lobbyists": 10
+  },
+  {
+    "agency": "U.S. International Trade Commission",
+    "id": "33",
+    "lobbyists": 1
+  },
+  {
+    "agency": "Homeland Security",
+    "id": "35",
+    "lobbyists": 10
+  },
+  {
+    "agency": "Federal Energy Regulatory Commission",
+    "id": "36",
+    "lobbyists": 2
+  },
+  {
+    "agency": "State",
+    "id": "38",
+    "lobbyists": 14
+  },
+  {
+    "agency": "Small Business Administration",
+    "id": "39",
+    "lobbyists": 2
+  },
+  {
+    "agency": "Energy",
+    "id": "41",
+    "lobbyists": 11
+  },
+  {
+    "agency": "Interior",
+    "id": "42",
+    "lobbyists": 12
+  },
+  {
+    "agency": "Federal Labor Relations Authority",
+    "id": "43",
+    "lobbyists": 1
+  },
+  {
+    "agency": "Environmental Protection Agency",
+    "id": "46",
+    "lobbyists": 13
+  },
+  {
+    "agency": "Justice",
+    "id": "49",
+    "lobbyists": 6
+  },
+  {
+    "agency": "Commodity Futures Trading Commission",
+    "id": "53",
+    "lobbyists": 2
+  },
+  {
+    "agency": "Education",
+    "id": "54",
+    "lobbyists": 4
+  },
+  {
+    "agency": "Housing and Urban Development",
+    "id": "55",
+    "lobbyists": 7
+  },
+  {
+    "agency": "Nuclear Regulatory Commission",
+    "id": "56",
+    "lobbyists": 1
+  },
+  {
+    "agency": "Management and Budget",
+    "id": "57",
+    "lobbyists": 5
+  },
+  {
+    "agency": "Office of the Vice President",
+    "id": "61",
+    "lobbyists": 5
+  },
+  {
+    "agency": "General Services Administration",
+    "id": "63",
+    "lobbyists": 3
+  },
+  {
+    "agency": "White House Office",
+    "id": "66",
+    "lobbyists": 9
+  },
+  {
+    "agency": "Commerce",
+    "id": "68",
+    "lobbyists": 11
+  },
+  {
+    "agency": "Transportation",
+    "id": "72",
+    "lobbyists": 11
+  },
+  {
+    "agency": "Federal Communications Commission",
+    "id": "73",
+    "lobbyists": 3
+  }
+]

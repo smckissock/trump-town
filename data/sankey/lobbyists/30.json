@@ -1,0 +1,998 @@
+{
+  "nodeCount": 69,
+  "agency": "Labor",
+  "nodes": [
+    {
+      "name": "Transamerica Companies",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Transamerica Companies",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Byron E. Anderson",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "National Patient Advocate Foundation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Drinker Biddle & Reath LLP",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "Molly E. Conway",
+      "category": "Staffer",
+      "amount": 2
+    },
+    {
+      "name": "California Association for Adult Day Services",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Ceridian Corporation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Ceridian Corporation",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "James O'Connell",
+      "category": "Staffer",
+      "amount": 2
+    },
+    {
+      "name": "China-US Exchange Foundation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Fontheim International, LLC",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "Wayne D. Palmer",
+      "category": "Staffer",
+      "amount": 3
+    },
+    {
+      "name": "Alliance for Healthcare Competitiveness, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "AstraZeneca Pharmaceuticals LP",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "AstraZeneca Pharmaceuticals LP",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Clerk of Court, Jefferson Parish",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Adams And Reese, LLP",
+      "category": "Firm",
+      "amount": 11
+    },
+    {
+      "name": "Mark A. Zelden",
+      "category": "Staffer",
+      "amount": 22
+    },
+    {
+      "name": "City of Jackson, Alabama",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Goodwyn Mills Cawood",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Wetlands Solutions Alabama, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "City of Mobile, Alabama",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Troy University",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Unified Recovery Group LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Three Rivers College",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Romulus, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "City of Foley",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Jefferson Parish, Louisiana",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Bell Heroux & Zelden, LLC",
+      "category": "Firm",
+      "amount": 3
+    },
+    {
+      "name": "Geocent, LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Bell Heroux, LLC",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "Birmingham Water Works Board",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Harris Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Randolph County Alabama (County Commission)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Alabama District Attorneys",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "C2 Group, LLC",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "Central Oklahoma Transportation And Parking Authority",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Murray, Montgomery & O'Donnell",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Lakota Technical Solutions",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Bevill State Community College",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Zelden Consulting Group",
+      "category": "Firm",
+      "amount": 3
+    },
+    {
+      "name": "Randolph County Alabama",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Marshall County, Alabama",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Navigate (formally JEFFERSON COUNTY ASSISTED HOUSING CORPORATION)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Autism Speaks",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Trimpa Group LLC",
+      "category": "Firm",
+      "amount": 8
+    },
+    {
+      "name": "James Edwin Williams",
+      "category": "Staffer",
+      "amount": 13
+    },
+    {
+      "name": "Policy Studies Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Novartis Vaccines and Diagnostics, Inc",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Biodesix",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Maximus",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Medical Marijuana Industry Group",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Rocky Mountain Health Plans",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Allergan, Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Icahn Associates LLC",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Icahn Associates LLC",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "AIG Shareholders Group (ad hoc coalition)",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Ogilvy Government Relations",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "C. V. Starr & Co., Inc.",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Environmental Technology Council",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Environmental Technology Council",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Wine And Spirits Wholesalers Of America, Inc",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Wine And Spirits Wholesalers Of America, Inc",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Business Software Alliance",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Business Software Alliance",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Katherine Brunett McGuire",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Career Education Corporation",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Career Education Corporation",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Diane Auer Jones",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Direct Selling Association",
+      "category": "Client",
+      "amount": 1
+    },
+    {
+      "name": "Direct Selling Association",
+      "category": "Firm",
+      "amount": 1
+    },
+    {
+      "name": "Dean Heyl",
+      "category": "Staffer",
+      "amount": 1
+    },
+    {
+      "name": "Red Star Yeast Company",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Womble Carlyle Sandridge & Rice, Pllc",
+      "category": "Firm",
+      "amount": 28
+    },
+    {
+      "name": "John K. Mashburn",
+      "category": "Staffer",
+      "amount": 48
+    },
+    {
+      "name": "American Roaming Network, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "National Corn Growers Association",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Reynolds American, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Womble Carlyle Sandridge & Rice, LLP",
+      "category": "Firm",
+      "amount": 10
+    },
+    {
+      "name": "GeoVax Labs, Inc",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "CarolinaEast Health System",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Wake County, North Carolina",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Friends of the North Carolina Museum of Natural Sciences",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Securus Technologies",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "AmeriDream Incorporated",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Southern Research Institute",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Specialty Tobacco Council",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Mid-Atlantic Sports Network (TCR Sports Broadcasting)",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Womble Carlyle Sandridge and Rice",
+      "category": "Firm",
+      "amount": 4
+    },
+    {
+      "name": "Save Our Sets Coalition",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Center for International Education, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Blackwater Worldwide",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Versar, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Bnsf Railway Co.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "K&l Gates LLP",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "Massilon Cable TV, Inc.",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Womble Carlyle Sandridge & Rice, PLLC",
+      "category": "Firm",
+      "amount": 2
+    },
+    {
+      "name": "North Carolina Military Foundation",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Rf Micro Devices",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "VIDANT HEALTH  (f/k/a  UNIVERSITY HEALTH SYSTEMS OF EASTERN CAROLINA)",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Mecklenburg County",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Ctr. for International Education dba The Visiting International Faculty Program",
+      "category": "Client",
+      "amount": 2
+    },
+    {
+      "name": "Ctr. for International Education dba The Visiting International Faculty Program",
+      "category": "Firm",
+      "amount": 2
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 2
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 2
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 2
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 2
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 1
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "value": 1
+    },
+    {
+      "source": 15,
+      "target": 12,
+      "value": 1
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "value": 11
+    },
+    {
+      "source": 19,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 20,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 21,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 22,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 23,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 24,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 25,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 26,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 27,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "value": 1
+    },
+    {
+      "source": 29,
+      "target": 18,
+      "value": 3
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "value": 1
+    },
+    {
+      "source": 31,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 32,
+      "target": 31,
+      "value": 1
+    },
+    {
+      "source": 33,
+      "target": 29,
+      "value": 1
+    },
+    {
+      "source": 34,
+      "target": 29,
+      "value": 1
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "value": 1
+    },
+    {
+      "source": 36,
+      "target": 18,
+      "value": 2
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "value": 1
+    },
+    {
+      "source": 38,
+      "target": 18,
+      "value": 1
+    },
+    {
+      "source": 39,
+      "target": 36,
+      "value": 1
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "value": 1
+    },
+    {
+      "source": 41,
+      "target": 18,
+      "value": 3
+    },
+    {
+      "source": 42,
+      "target": 41,
+      "value": 1
+    },
+    {
+      "source": 43,
+      "target": 41,
+      "value": 1
+    },
+    {
+      "source": 44,
+      "target": 17,
+      "value": 1
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "value": 1
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "value": 8
+    },
+    {
+      "source": 48,
+      "target": 46,
+      "value": 1
+    },
+    {
+      "source": 49,
+      "target": 46,
+      "value": 1
+    },
+    {
+      "source": 50,
+      "target": 46,
+      "value": 1
+    },
+    {
+      "source": 51,
+      "target": 46,
+      "value": 1
+    },
+    {
+      "source": 52,
+      "target": 46,
+      "value": 1
+    },
+    {
+      "source": 53,
+      "target": 46,
+      "value": 1
+    },
+    {
+      "source": 54,
+      "target": 46,
+      "value": 1
+    },
+    {
+      "source": 55,
+      "target": 56,
+      "value": 1
+    },
+    {
+      "source": 56,
+      "target": 47,
+      "value": 1
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "value": 1
+    },
+    {
+      "source": 58,
+      "target": 47,
+      "value": 2
+    },
+    {
+      "source": 59,
+      "target": 58,
+      "value": 1
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "value": 1
+    },
+    {
+      "source": 61,
+      "target": 47,
+      "value": 1
+    },
+    {
+      "source": 62,
+      "target": 63,
+      "value": 1
+    },
+    {
+      "source": 63,
+      "target": 47,
+      "value": 1
+    },
+    {
+      "source": 64,
+      "target": 65,
+      "value": 1
+    },
+    {
+      "source": 65,
+      "target": 66,
+      "value": 1
+    },
+    {
+      "source": 67,
+      "target": 68,
+      "value": 1
+    },
+    {
+      "source": 68,
+      "target": 69,
+      "value": 1
+    },
+    {
+      "source": 70,
+      "target": 71,
+      "value": 1
+    },
+    {
+      "source": 71,
+      "target": 72,
+      "value": 1
+    },
+    {
+      "source": 73,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 74,
+      "target": 75,
+      "value": 28
+    },
+    {
+      "source": 76,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 77,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 78,
+      "target": 79,
+      "value": 2
+    },
+    {
+      "source": 79,
+      "target": 75,
+      "value": 10
+    },
+    {
+      "source": 80,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 81,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 82,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 83,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 84,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 85,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 86,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 87,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 88,
+      "target": 89,
+      "value": 2
+    },
+    {
+      "source": 89,
+      "target": 75,
+      "value": 4
+    },
+    {
+      "source": 90,
+      "target": 89,
+      "value": 2
+    },
+    {
+      "source": 91,
+      "target": 79,
+      "value": 2
+    },
+    {
+      "source": 92,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 93,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 94,
+      "target": 95,
+      "value": 2
+    },
+    {
+      "source": 95,
+      "target": 75,
+      "value": 2
+    },
+    {
+      "source": 96,
+      "target": 97,
+      "value": 2
+    },
+    {
+      "source": 97,
+      "target": 75,
+      "value": 2
+    },
+    {
+      "source": 98,
+      "target": 79,
+      "value": 2
+    },
+    {
+      "source": 99,
+      "target": 79,
+      "value": 2
+    },
+    {
+      "source": 100,
+      "target": 79,
+      "value": 2
+    },
+    {
+      "source": 101,
+      "target": 74,
+      "value": 2
+    },
+    {
+      "source": 102,
+      "target": 103,
+      "value": 2
+    },
+    {
+      "source": 103,
+      "target": 75,
+      "value": 2
+    }
+  ]
+}
