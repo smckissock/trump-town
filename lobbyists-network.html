@@ -17,12 +17,22 @@
     <script src="https://d3js.org/queue.v1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.js"></script>
 
-    <script src="/site/lobbyists/lib/sankey.js"></script>
-    <script src="/site/lobbyists/lib/tip.js"></script>
-    <script src="/site/lobbyists/js/lobbyists.js" type='text/javascript'></script>
+    <script src="lib/crossfilter.js"></script>
+    <script src="lib/dc.js"></script>
+    <script src="lib/cola.js"></script>
+    <script src="lib/dagre.js"></script>
+    <script src="lib/d3v4-force.js"></script>  
+    <script src="lib/dc.graph.js"></script>
+    <script src="lib/chart.registry.js"></script>
 
-    <link rel="stylesheet" type="text/css" href="/site/lobbyists/css/style.css">
-    <link rel="stylesheet" type="text/css" href="/site/lobbyists/css/layout.css">
+
+    <script src="lib/sankey.js"></script>
+    
+    
+    <script src="js/lobbyists-network.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/graph-style.css">
+    <link rel="stylesheet" type="text/css" href="css/graph-layout.css">
 </head>
 <body>
     <div class="container">
@@ -31,27 +41,10 @@
             Former Lobbyists in Trump Administration
         </div>
 
-
         <div id="bars" class="agencies">
         </div>
 
-        <div id="agencyName" class="agency">
-            The Agency
-        </div>
-
-        <div id="client" class="client">
-            Client
-        </div>
-
-        <div id="lobbyingFirm" class="lobbyingFirm">
-            Lobbying Firm
-        </div>
-
-        <div class="staffer">
-            Staffer
-        </div>
-
-        <div id="chart" class="sankey">
+        <div id="graph" class="network">
         </div>
     </div>
 </body>

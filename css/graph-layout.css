@@ -1,11 +1,9 @@
 .container {
     display: grid;
     grid-template-areas: "title      title   title         title"
-                         "agencies   agency  agency        agency"
-                         "agencies   client  lobbyingFirm  staffer"   
-                         "agencies   sankey  sankey        sankey";
+                         "agency     network network       network";
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 30px 25px 10px 1000px; 
+    grid-template-rows: 30px 1000px; 
     grid-gap: .5em;
     margin: 0 auto;
 }
@@ -15,27 +13,10 @@
 }
 
 
-.client {
-    grid-area: client;
-}
-
-.lobbyingFirm {
-    grid-area: lobbyingFirm;
-}
-
-.staffer {
-    grid-area: staffer;
-}
-
 .agency {
     grid-area: agency;
 }
 
-.agencies {
-    grid-area: agencies;
-}
-
-
-.sankey {
-    grid-area: sankey;
+.network {
+    grid-area: network;
 }

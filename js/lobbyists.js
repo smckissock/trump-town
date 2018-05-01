@@ -10,10 +10,6 @@ function setup(error, agencyList) {
     resetSankey(agencyList[0]);
 }
 
-//var tipNodes = d3.tip()
-//    .attr('class', 'd3-tip d3-tip-nodes')
-//    .offset([-10, 0]);
-
 function drawBars(agencyList) {
 
     const margin = {
@@ -124,8 +120,6 @@ function drawSankey(data) {
         .nodes(data.nodes)
         .links(data.links)
         .layout(50);
-
-    //sankey.extent([[0, 0], [600, 600]]);
 
     var link = svg.append("g").selectAll(".link")
         .data(data.links)
