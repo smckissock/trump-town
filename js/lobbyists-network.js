@@ -65,6 +65,9 @@ function setup(error, data) {
     diagram
         .nodeDimension(nodef.dimension).nodeGroup(nodef.group)
         .edgeDimension(edgef.dimension).edgeGroup(edgef.group)    
+        .edgeSource(kv => kv.value.source)
+        .edgeTarget(kv => kv.value.target)
+        .child('validate', dc_graph.validate()); 
     
     dc.renderAll();
 }
